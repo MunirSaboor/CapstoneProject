@@ -186,6 +186,7 @@ public class RetailAcountSteps extends CommonUtility {
 	}
 	@When("User click Add Your Address button")
 	public void userClickAddYourAddressButton() {
+		waitTillClickable(factory.accountPage().addYourAddressButtonAddAddressWindow);
 		click(factory.accountPage().addYourAddressButtonAddAddressWindow);
 		logger.info("User click Add Your Address button");
 	 

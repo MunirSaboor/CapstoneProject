@@ -33,6 +33,7 @@ public class RetailSteeps extends CommonUtility {
         Assert.assertTrue(isElementDisplayed(factory.homePage().pokemanProductImage));
         logger.info("the Product is displayed on home page");
 
+  
 		
 	}
 }

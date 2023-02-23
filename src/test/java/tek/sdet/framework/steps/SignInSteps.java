@@ -59,10 +59,10 @@ public class SignInSteps extends CommonUtility{
 	}
 
 	@When("User click on SignUp button")
-	public void userClickOnSignUpButton() throws InterruptedException {
+	public void userClickOnSignUpButton() {
 		click(factory.signInPage().SignUpBtnAccountCreation);
 		logger.info("User clicked on sign up button");
-	 Thread.sleep(5000);
+	 
 	}
 
 	@Then("User should be logged into account page")

@@ -1,3 +1,4 @@
+@JenkinsTest
 Feature: Sign in Feature
 
   @Test
