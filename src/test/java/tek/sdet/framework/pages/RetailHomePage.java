@@ -106,6 +106,8 @@ public class RetailHomePage extends BaseSetup {
 	public WebElement ApexLegends1000ApexCoins;
 	@FindBy(tagName = "img")
 	public List<WebElement> electronicsProducts;
+	@FindBy(xpath = "//p[@class='products__name']")
+	public WebElement products;
 
 
 

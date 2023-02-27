@@ -1,7 +1,5 @@
 package tek.sdet.framework.steps;
 
-import static org.junit.Assert.assertTrue;
-
 import java.util.List;
 import java.util.Map;
 
@@ -98,10 +96,14 @@ public class HomeSteps extends CommonUtility {
 
 	@When("User click on item")
 	public void userClickOnItem() {
-		click(factory.homePage().KasaOutdoorSmartPlug);
-		logger.info("User clicked on Kasa Outdoor Smart Plug");
-
+		waitTillPresence(factory.homePage().products);
+		click(factory.homePage().products);
+		logger.info("user clicked on product");
 	}
+
+	
+
+	
 
 	@When("User select quantity ‘{int}’")
 	public void userSelectQuantity(Integer int1) {
@@ -185,6 +187,11 @@ public class HomeSteps extends CommonUtility {
 		selectByIndex(factory.homePage().allDepartmentDropDown, 1);
 		logger.info("User changed the category to Electronics");
 
+	}
+	@Then("a message should be displayed {string} ")
+		public void messageShouldDisplayedOrderPlacedThanks() {
+		Assert.assertTrue(isElementDisplayed(factory.homePage().orderPlacedSuccessfully));
+		logger.info("order placed messaged should displayed");
 	}
 
 }
