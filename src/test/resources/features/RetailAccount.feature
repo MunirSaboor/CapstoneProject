@@ -18,9 +18,12 @@ Feature: Retail Account Page
     Then user profile information should be updated
   
   Scenario: Verify User can Update password
+    Given User is on retail website
+    When User click on Sign in option
+    And User enter email 'update.password@gmail.com' and password 'NewPass@123'
     When User enter below information
       | previousPassword | newPassword | confirmPassword |
-      | Salam1234!       | Tek@1234    | Tek@1234        |
+      | NewPass@123    | Tek@1234    | Tek@1234        |
    And User click on Change Password button
    Then a message should be displayed ‘Password Updated Successfully’
 

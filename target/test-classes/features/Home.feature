@@ -1,4 +1,4 @@
-
+@JenkinsTest
 Feature: Retail Home Page
 
   Background: 
@@ -36,7 +36,7 @@ Feature: Retail Home Page
     And User click add to Cart button
     Then the cart icon quantity should change to ‘2’
 
-@SmokeTest
+
   Scenario: Verify User can place an order without Shipping address and payment Method on file
     When User click on login button
     And User should be logged in into Account
@@ -62,7 +62,7 @@ Feature: Retail Home Page
     And User click on Place Your Order
     Then a message should be displayed ‘Order Placed, Thanks’
 
-  @SmokeTest
+
   Scenario: Verify User can place an order with Shipping address and payment Method on file
     When User click on login button
     And User should be logged in into Account
