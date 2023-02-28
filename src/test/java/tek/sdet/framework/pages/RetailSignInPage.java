@@ -25,7 +25,7 @@ public class RetailSignInPage extends BaseSetup {
 	public WebElement emailField;
 	@FindBy(id = "password")
 	public WebElement passwordField;
-	@FindBy(xpath = "//button[text()='Login']")
+	@FindBy(css = "#loginBtn")
 	public WebElement loginPageButton;
 	@FindBy(linkText = "Create New Account")
 	public WebElement createNewAccountButton;

@@ -1,17 +1,14 @@
 @smokeTest
 Feature: Retail Home Page
 
-  Background: 
-    Given User is on retail website
-    When User click on Sign in option
-    And User enter email 'saboor12@gmail.com' and password 'Tek@1234'
-
   Scenario: Verify Shop by Department sidebar
+    Given User is on retail website
     When User click on All section
     Then below options are present in Shop by Department sidebar
       | Electronics | Computers | Smart Home | Sports | Automative |
 
   Scenario Outline: Verify department sidebar options
+    Given User is on retail website
     When User click on All section
     And User on '<department>'
     Then below options are present in department
@@ -26,6 +23,9 @@ Feature: Retail Home Page
       | Automative  | Automative Parts & Accessories | MotorCycle & Powersports |
 
   Scenario: Verify User can add an item to cart
+    Given User is on retail website
+    When User click on Sign in option
+    And User enter email 'saboor12@gmail.com' and password 'Tek@1234'
     When User click on login button
     And User should be logged in into Account
     And User change the category to 'Smart Home'
@@ -36,8 +36,10 @@ Feature: Retail Home Page
     And User click add to Cart button
     Then the cart icon quantity should change to ‘2’
 
-
   Scenario: Verify User can place an order without Shipping address and payment Method on file
+    Given User is on retail website
+    When User click on Sign in option
+    And User enter email 'saboor12@gmail.com' and password 'Tek@1234'
     When User click on login button
     And User should be logged in into Account
     And User change the category to 'Smart Home'
@@ -62,8 +64,10 @@ Feature: Retail Home Page
     And User click on Place Your Order
     Then a message should be displayed ‘Order Placed, Thanks’
 
-
   Scenario: Verify User can place an order with Shipping address and payment Method on file
+    Given User is on retail website
+    When User click on Sign in option
+    And User enter email 'saboor12@gmail.com' and password 'Tek@1234'
     When User click on login button
     And User should be logged in into Account
     And User change the category to Electronics

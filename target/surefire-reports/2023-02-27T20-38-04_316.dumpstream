@@ -1,0 +1,5 @@
+# Created at 2023-02-27T20:38:05.026
+Boot Manifest-JAR contains absolute paths in classpath 'L:\java\tek-bdd-framework\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

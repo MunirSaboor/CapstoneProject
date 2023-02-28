@@ -16,6 +16,17 @@ public class SignInSteps extends CommonUtility{
 	
 	private POMFactory factory = new POMFactory();
 	
+	@Given("User is on retail website")
+	public void userIsOnRetailWebsite() {
+		String actualTitle = getTitle();
+		String expectedTitle = "React App";
+		Assert.assertEquals(actualTitle, expectedTitle);
+		Assert.assertTrue(isElementDisplayed(factory.homePage().tekSchoolLogo));
+		logger.info("user is on retail website");
+		logger.info("Actual Title " + actualTitle + " Equals " + " ExpectedTitle " + expectedTitle);
+
+	}
+	
 
 	@When("User click on Sign in option")
 	public void userClickOnSignInBtn() {
@@ -26,12 +37,13 @@ public class SignInSteps extends CommonUtility{
 	@And("User enter email {string} and password {string}")
 	public void userEnterEmailAndPassword(String emailValue, String passwordValue) {
 		sendText(factory.signInPage().emailField, emailValue);
-		sendText(factory.signInPage().passwordField, passwordValue);	
+		sendText(factory.signInPage().passwordField, passwordValue);
 		logger.info("User Entered email " + emailValue + "user Entered password " + passwordValue );
 	}
 	
 	@And("User click on login button")
 	public void userClickOnLoginButton() {
+		fluientwaitforElement(factory.signInPage().loginPageButton, 10, 1);
 		click(factory.signInPage().loginPageButton);
 		logger.info("Login button is enabled");
 	}
