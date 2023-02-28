@@ -1,19 +1,12 @@
-@smokeTest
+@Test
 Feature: Retail Account Page
 
-  Background: 
+  Scenario: Verify User can update Profile Information
     Given User is on retail website
     When User click on Sign in option
     And User enter email 'saboor12@gmail.com' and password 'Tek@1234'
     And User click on login button
     And User should be logged in into Account
-
-  Scenario: Verify User can update Profile Information
-  Given User is on retail website
-  When User click on Sign in option
-  And User enter email 'saboor12@gmail.com' and password 'Tek@1234'
-  And User should be logged in into Account
-  And User click on login button
     When User click on Account option
     And User update Name and Phone
       | name    | phone number |
@@ -22,15 +15,15 @@ Feature: Retail Account Page
     Then user profile information should be updated
 
   Scenario: Verify User can Update password
-  Given User is on retail website
+    Given User is on retail website
     When User click on Sign in option
-    And User enter email 'update.password@gmail.com' and password 'NewPass@123'
+    And User enter email 'update.password@gmail.com' and password 'Salam@123'
     And User click on login button
     And User should be logged in into Account
     And User click on Account option
     And User enter below information
       | previousPassword | newPassword | confirmPassword |
-      | NewPass@123      | Tek@1234    | Tek@1234        |
+      | Salam@123        | Tek@1234    | Tek@1234        |
     And User click on Change Password button
     Then a message should be displayed ‘Password Updated Successfully’
 
@@ -82,7 +75,7 @@ Feature: Retail Account Page
     And User click on Add address option
     And user fill new address form with below information
       | country | fullName | phoneNumber | streetAddress     | apt  | city       | state   | zipCode |
-      | Canada  | TekTest  |  6472543165 | 201 Van Horne Ave | 1702 | North York | Ontario |   45875 |
+      | Canada  | TekTest  |  6472543205 | 201 Van Horne Ave | 1702 | North York | Ontario |   45875 |
     And User click Add Your Address button
     Then a message should be displayed ‘Address Added Successfully’
 
@@ -97,7 +90,7 @@ Feature: Retail Account Page
     And User click on edit address option
     And user fill new address form with below information
       | country       | fullName | phoneNumber | streetAddress          | apt | city    | state    | zipCode |
-      | United States | NewTest  |  6478154758 | 1383 victoria park ave | 147 | Toronto | New York |   54857 |
+      | United States | NewTest  |  6478154658 | 1383 victoria park ave | 147 | Toronto | New York |   54857 |
     And User click update Your Address button
     Then a message should be displayed ‘Address Updated Successfully’
 
