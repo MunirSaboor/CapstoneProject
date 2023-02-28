@@ -1,15 +1,13 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>tek.sdet.bdd.framework</groupId>
-	<artifactId>tek-bdd-framework</artifactId>
+	<groupId>tek.sdet.bdd.framework.transformer.tekschool</groupId>
+	<artifactId>tek-bdd-framework-transformers-tekschool</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
 	<properties>
-		<maven.complier.source>11</maven.complier.source>
+		<maven.compiler.source>11</maven.compiler.source>
 		<maven.compiler.target>11</maven.compiler.target>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>io.cucumber</groupId>
@@ -62,20 +60,14 @@
 			<artifactId>log4j</artifactId>
 			<version>1.2.17</version>
 		</dependency>
-
-
+		<dependency>
+			<groupId>net.datafaker</groupId>
+			<artifactId>datafaker</artifactId>
+			<version>1.8.0</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<plugins>
-			  <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-compiler-plugin</artifactId>
-        <version>3.10.1</version>
-        <configuration>
-          <source>1.8</source>
-          <target>1.8</target>
-        </configuration>
-      </plugin>
 			<plugin>
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>3.0.0-M7</version>
@@ -103,7 +95,8 @@
 							<jsonFiles>
 								<param>**/*.json</param>
 							</jsonFiles>
-							<parallelTesting>false</parallelTesting> <!-- optional, set true to fail build on test failures -->
+							<parallelTesting>false</parallelTesting>
+							<!-- optional, set true to fail build on test failures -->
 							<checkBuildResult>false</checkBuildResult>
 						</configuration>
 					</execution>
