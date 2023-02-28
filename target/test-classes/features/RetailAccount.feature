@@ -1,4 +1,4 @@
-@Test
+@smokeTest
 Feature: Retail Account Page
 
   Scenario: Verify User can update Profile Information
