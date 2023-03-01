@@ -1,12 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: tek.sdet.framework.runner.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 22, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 143.686 s <<< FAILURE! - in tek.sdet.framework.runner.TestRunner
-Sign in Feature.Verify user can create an acount into Retail website  Time elapsed: 5.431 s  <<< FAILURE!
-java.lang.AssertionError
-	at org.junit.Assert.fail(Assert.java:87)
-	at org.junit.Assert.assertTrue(Assert.java:42)
-	at org.junit.Assert.assertTrue(Assert.java:53)
-	at tek.sdet.framework.steps.SignInSteps.userShouldBeLoggedIntoAccountPage(SignInSteps.java:82)
-	at ✽.User should be logged into account page(classpath:features/SignIn.feature:21)
-
+Tests run: 22, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 142.798 s - in tek.sdet.framework.runner.TestRunner
