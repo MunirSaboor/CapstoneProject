@@ -3838,3 +3838,7 @@
 2023-02-28 14:19:00,621 [main] INFO logger_File - user clicked on create new acount button
 2023-02-28 14:19:01,197 [main] INFO logger_File - User clicked on sign up button
 2023-02-28 14:19:01,527 [main] INFO logger_File - user is logged in into account page
+2023-03-07 14:44:21,063 [main] INFO logger_File - user is on retail website
+2023-03-07 14:44:21,130 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-07 14:44:21,398 [main] INFO logger_File - user searched for product pokemon
+2023-03-07 14:44:22,564 [main] INFO logger_File - the Product is displayed on home page

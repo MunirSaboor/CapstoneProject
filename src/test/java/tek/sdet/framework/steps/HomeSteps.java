@@ -14,6 +14,20 @@ import tek.sdet.framework.utilities.CommonUtility;
 
 public class HomeSteps extends CommonUtility {
 	private POMFactory factory = new POMFactory();
+	
+	@When("User search for {string} product")
+	public void userSearchForProduct(String productValue) {
+		sendText(factory.homePage().searchBar, productValue);
+		click(factory.homePage().searchButton);
+		logger.info("user searched for product " + productValue);
+	}
+
+	@Then("The product should be displayed")
+	public void theProductShouldBeDisplayed() {
+		Assert.assertTrue(isElementDisplayed(factory.homePage().pokemanProductImage));
+		logger.info("the Product is displayed on home page");
+
+	}
 
 	@When("User click on All section")
 	public void userClickOnAllSection() {
