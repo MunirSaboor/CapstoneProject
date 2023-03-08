@@ -3842,3 +3842,7 @@
 2023-03-07 14:44:21,130 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
 2023-03-07 14:44:21,398 - logger_File -INFO - user searched for product pokemon
 2023-03-07 14:44:22,564 - logger_File -INFO - the Product is displayed on home page
+2023-03-07 14:51:19,200 - logger_File -INFO - user is on retail website
+2023-03-07 14:51:19,206 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-07 14:51:19,463 - logger_File -INFO - user searched for product pokemon
+2023-03-07 14:51:20,746 - logger_File -INFO - the Product is displayed on home page
