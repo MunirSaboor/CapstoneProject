@@ -204,6 +204,7 @@ public class HomeSteps extends CommonUtility {
 	}
 	@Then("a message should be displayed {string} ")
 		public void messageShouldDisplayedOrderPlacedThanks() {
+		waitTillPresence(factory.homePage().orderPlacedSuccessfully);
 		Assert.assertTrue(isElementDisplayed(factory.homePage().orderPlacedSuccessfully));
 		logger.info("order placed messaged should displayed");
 	}

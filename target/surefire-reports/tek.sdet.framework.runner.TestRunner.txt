@@ -1,10 +1,10 @@
 -------------------------------------------------------------------------------
 Test set: tek.sdet.framework.runner.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 4.696 s <<< FAILURE! - in tek.sdet.framework.runner.TestRunner
-Retail Home Page.Verify user can search a product  Time elapsed: 3.431 s  <<< ERROR!
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 4.802 s <<< FAILURE! - in tek.sdet.framework.runner.TestRunner
+Retail Home Page.Verify user can search a product  Time elapsed: 3.644 s  <<< ERROR!
 org.openqa.selenium.remote.http.ConnectionFailedException: 
-Unable to establish websocket connection to http://localhost:56743/devtools/browser/843a6dcc-ef6c-49ef-a7c3-ba00f2c3d3cb
+Unable to establish websocket connection to http://localhost:51721/devtools/browser/34db5066-6b54-433f-ba69-37c50d978ff8
 Build info: version: '4.4.0', revision: 'e5c75ed026a'
 System info: host: 'DESKTOP-913F0VL', ip: '10.0.0.84', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
 Driver info: driver.version: ChromeDriver
@@ -17,11 +17,11 @@ Driver info: driver.version: ChromeDriver
 	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:114)
 	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:81)
 	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:49)
-	at tek.sdet.framework.config.ChromeHeadless.openBrowser(ChromeHeadless.java:16)
+	at tek.sdet.framework.config.ChromeBrowser.openBrowser(ChromeBrowser.java:16)
 	at tek.sdet.framework.base.BaseSetup.setupBrowser(BaseSetup.java:57)
 	at tek.sdet.framework.base.BaseUITest.setupTest(BaseUITest.java:12)
 
-Retail Home Page.Verify user can search a product  Time elapsed: 3.437 s  <<< ERROR!
+Retail Home Page.Verify user can search a product  Time elapsed: 3.651 s  <<< ERROR!
 java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because the return value of "tek.sdet.framework.utilities.CommonUtility.getDriver()" is null
 	at tek.sdet.framework.utilities.CommonUtility.takeScreenShotAsBytes(CommonUtility.java:62)
 	at tek.sdet.framework.base.BaseUITest.closeTest(BaseUITest.java:18)
