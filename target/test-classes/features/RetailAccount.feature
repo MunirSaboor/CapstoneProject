@@ -17,13 +17,13 @@ Feature: Retail Account Page
   Scenario: Verify User can Update password
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'update.password@gmail.com' and password 'Salam@123'
+    And User enter email 'update.password@gmail.com' and password 'Tek@1234'
     And User click on login button
     And User should be logged in into Account
     And User click on Account option
     And User enter below information
       | previousPassword | newPassword | confirmPassword |
-      | Salam@123        | Tek@1234    | Tek@1234        |
+      | Tek@1234        | Salam@123    | Salam@123        |
     And User click on Change Password button
     Then a message should be displayed ‘Password Updated Successfully’
 
