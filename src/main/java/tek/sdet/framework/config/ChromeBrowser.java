@@ -16,6 +16,8 @@ public class ChromeBrowser implements Browser{
 		WebDriverManager.chromedriver().setup();
 		ChromeOptions ops = new ChromeOptions();
         ops.addArguments("--remote-allow-origins=*");
+        ops.addArguments("--no-sandbox");
+        ops.addArguments("--disable-dev-shm-usage");
 		WebDriver driver = new ChromeDriver(ops);
 		driver.get(url);
 		return driver;

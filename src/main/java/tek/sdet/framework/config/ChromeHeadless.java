@@ -13,8 +13,6 @@ public class ChromeHeadless implements Browser{
 		WebDriverManager.chromedriver().setup();
 		ChromeOptions options = new ChromeOptions();
 		options.addArguments("--headless");
-		options.addArguments("--no-sandbox");
-		options.addArguments("--disable-dev-shm-usage");
 		WebDriver driver = new ChromeDriver();
 		driver.get(url);
 		return driver;
