@@ -1,6 +1,6 @@
-
+@smokeTest
 Feature: Retail Home Page
-@Test
+
   Scenario: Verify user can search a product
     Given User is on retail website
     When User search for "pokemon" product
