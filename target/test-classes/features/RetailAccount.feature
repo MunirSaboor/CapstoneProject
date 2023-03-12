@@ -10,20 +10,20 @@ Feature: Retail Account Page
     When User click on Account option
     And User update Name and Phone
       | name    | phone number |
-      | TestSab |   9193756658 |
+      | TestSab |   9193756659 |
     And User click on Update button
     Then user profile information should be updated
 
   Scenario: Verify User can Update password
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'update.password@gmail.com' and password 'Tek@1234'
+    And User enter email 'update.password@gmail.com' and password 'Salam@123'
     And User click on login button
     And User should be logged in into Account
     And User click on Account option
     And User enter below information
       | previousPassword | newPassword | confirmPassword |
-      | Tek@1234        | Salam@123    | Salam@123        |
+      | Salam@123        | Tek@1234    | Tek@1234        |
     And User click on Change Password button
     Then a message should be displayed ‘Password Updated Successfully’
 
@@ -37,7 +37,7 @@ Feature: Retail Account Page
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 5488726485473590 | TekTest    |              05 |           2024 |          452 |
+      | 5488726485473580 | TekCard    |              05 |           2024 |          452 |
     And User click on Add your card button
     Then a message should be displayed ‘Payment Method added successfully’
 
@@ -75,7 +75,7 @@ Feature: Retail Account Page
     And User click on Add address option
     And user fill new address form with below information
       | country | fullName | phoneNumber | streetAddress     | apt  | city       | state   | zipCode |
-      | Canada  | TekTest  |  6472543205 | 201 Van Horne Ave | 1702 | North York | Ontario |   45875 |
+      | Canada  | TekTest  |  6472543277 | 201 Van Horne Ave | 1782 | North York | Ontario |   49875 |
     And User click Add Your Address button
     Then a message should be displayed ‘Address Added Successfully’
 
