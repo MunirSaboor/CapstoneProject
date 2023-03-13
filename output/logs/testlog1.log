@@ -5298,3 +5298,66 @@
 2023-03-13 01:18:25,473 [main] INFO logger_File - User clicked om Add a Credit Card or Debit Card button
 2023-03-13 01:18:26,061 [main] INFO logger_File - User filled Debit or credit card information
 2023-03-13 01:18:26,161 [main] INFO logger_File - User clicked on add your card button
+2023-03-13 01:44:09,680 [main] INFO logger_File - user is on retail website
+2023-03-13 01:44:09,686 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 01:44:09,923 [main] INFO logger_File - user clicked on sign in option
+2023-03-13 01:44:10,035 [main] INFO logger_File - user clicked on create new acount button
+2023-03-13 01:44:10,628 [main] INFO logger_File - User clicked on sign up button
+2023-03-13 01:52:13,086 [main] INFO logger_File - user is on retail website
+2023-03-13 01:52:13,091 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 01:52:13,313 [main] INFO logger_File - user clicked on sign in option
+2023-03-13 01:52:13,427 [main] INFO logger_File - user clicked on create new acount button
+2023-03-13 01:52:14,034 [main] INFO logger_File - User clicked on sign up button
+2023-03-13 01:52:38,512 [main] INFO logger_File - user is on retail website
+2023-03-13 01:52:38,517 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 01:52:38,746 [main] INFO logger_File - user clicked on sign in option
+2023-03-13 01:52:38,864 [main] INFO logger_File - user clicked on create new acount button
+2023-03-13 01:52:39,451 [main] INFO logger_File - User clicked on sign up button
+2023-03-13 01:52:39,803 [main] INFO logger_File - user is logged in into account page
+2023-03-13 01:54:23,809 [main] INFO logger_File - user is on retail website
+2023-03-13 01:54:23,816 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 01:54:24,068 [main] INFO logger_File - user clicked on sign in option
+2023-03-13 01:54:24,343 [main] INFO logger_File - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-13 01:54:24,485 [main] INFO logger_File - Login button is enabled
+2023-03-13 01:54:24,958 [main] INFO logger_File - User clicked on Account Button
+2023-03-13 01:54:25,067 [main] INFO logger_File - User clicked on add a payment method link
+2023-03-13 01:54:25,707 [main] INFO logger_File - User filled Debit or credit card information
+2023-03-13 01:54:25,803 [main] INFO logger_File - User clicked on add your card button
+2023-03-13 01:56:38,081 [main] INFO logger_File - user is on retail website
+2023-03-13 01:56:38,087 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 01:56:38,312 [main] INFO logger_File - user clicked on sign in option
+2023-03-13 01:56:38,595 [main] INFO logger_File - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-13 01:56:38,740 [main] INFO logger_File - Login button is enabled
+2023-03-13 01:56:39,176 [main] INFO logger_File - User clicked on Account Button
+2023-03-13 01:56:39,317 [main] INFO logger_File - User clicked on add a payment method link
+2023-03-13 01:56:39,963 [main] INFO logger_File - User filled Debit or credit card information
+2023-03-13 01:56:40,059 [main] INFO logger_File - User clicked on add your card button
+2023-03-13 01:57:41,562 [main] INFO logger_File - user is on retail website
+2023-03-13 01:57:41,567 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 01:57:41,803 [main] INFO logger_File - user clicked on sign in option
+2023-03-13 01:57:42,103 [main] INFO logger_File - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-13 01:57:42,238 [main] INFO logger_File - Login button is enabled
+2023-03-13 01:57:42,673 [main] INFO logger_File - User clicked on Account Button
+2023-03-13 01:57:42,828 [main] INFO logger_File - User clicked on add a payment method link
+2023-03-13 01:57:43,467 [main] INFO logger_File - User filled Debit or credit card information
+2023-03-13 01:57:43,564 [main] INFO logger_File - User clicked on add your card button
+2023-03-13 01:58:16,684 [main] INFO logger_File - user is on retail website
+2023-03-13 01:58:16,690 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 01:58:16,946 [main] INFO logger_File - user clicked on sign in option
+2023-03-13 01:58:17,212 [main] INFO logger_File - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-13 01:58:17,348 [main] INFO logger_File - Login button is enabled
+2023-03-13 01:58:17,807 [main] INFO logger_File - User clicked on Account Button
+2023-03-13 01:58:17,920 [main] INFO logger_File - User clicked on add a payment method link
+2023-03-13 01:58:18,571 [main] INFO logger_File - User filled Debit or credit card information
+2023-03-13 01:58:18,668 [main] INFO logger_File - User clicked on add your card button
+2023-03-13 01:58:19,417 [main] INFO logger_File - a message should be displayed ‘Payment Method added successfully’
+2023-03-13 01:59:28,094 [main] INFO logger_File - user is on retail website
+2023-03-13 01:59:28,100 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 01:59:28,359 [main] INFO logger_File - user clicked on sign in option
+2023-03-13 01:59:28,639 [main] INFO logger_File - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-13 01:59:28,781 [main] INFO logger_File - Login button is enabled
+2023-03-13 01:59:29,246 [main] INFO logger_File - User clicked on Account Button
+2023-03-13 01:59:29,351 [main] INFO logger_File - User clicked on add a payment method link
+2023-03-13 01:59:29,990 [main] INFO logger_File - User filled Debit or credit card information
+2023-03-13 01:59:30,091 [main] INFO logger_File - User clicked on add your card button
+2023-03-13 01:59:30,832 [main] INFO logger_File - a message should be displayed ‘Payment Method added successfully’

@@ -41,6 +41,8 @@ public class RetailSignInPage extends BaseSetup {
 	public WebElement confirmPasswordForAccountCreatio;
 	@FindBy(tagName = "button")
 	public WebElement SignUpBtnAccountCreation;
+	@FindBy(xpath = "//a[@id='accountLink']")
+	public WebElement accountbtnForAssertion;
 	
 
 }
