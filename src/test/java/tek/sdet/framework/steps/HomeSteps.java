@@ -15,6 +15,17 @@ import tek.sdet.framework.utilities.CommonUtility;
 public class HomeSteps extends CommonUtility {
 	private POMFactory factory = new POMFactory();
 	
+	@Given("User is on retail website")
+	public void userIsOnRetailWebsite() {
+		String actualTitle = getTitle();
+		String expectedTitle = "React App";
+		Assert.assertEquals(actualTitle, expectedTitle);
+		Assert.assertTrue(isElementDisplayed(factory.homePage().tekSchoolLogo));
+		logger.info("user is on retail website");
+		logger.info("Actual Title " + actualTitle + " Equals " + " ExpectedTitle " + expectedTitle);
+
+	}
+	
 	@When("User search for {string} product")
 	public void userSearchForProduct(String productValue) {
 		sendText(factory.homePage().searchBar, productValue);
@@ -160,7 +171,7 @@ public class HomeSteps extends CommonUtility {
 	}
 
 	@Then("User fill new address form with below information")
-	public void userFillNewAddressFormWithBelowInformation(DataTable dataTable) {
+	public void userFillNewAddressFormWithBelowInformation(DataTable dataTable){
 		List<Map<String, String>> addressInput = dataTable.asMaps(String.class, String.class);
 		selectByVisibleText(factory.homePage().country, "Canada");
 		sendText(factory.homePage().fullNameAddNewAddressField, addressInput.get(0).get("fullName"));
@@ -171,18 +182,19 @@ public class HomeSteps extends CommonUtility {
 		selectByVisibleText(factory.homePage().stateField, "Ontario");
 		sendText(factory.homePage().zipCodeField, addressInput.get(0).get("zipCode"));
 		logger.info("User entered address into required field");
-
 	}
 
 	@Then("User click Add a credit card or Debit Card for Payment method")
 	public void userClickAddACreditCardOrDebitCardForPaymentMethod() {
-		click(factory.homePage().AddCreditCardOrDebitCardBtn);
+		waitTillClickable(factory.homePage().AddCreditCardOrDebitCardBtn);
+	    click(factory.homePage().AddCreditCardOrDebitCardBtn);
 		logger.info("User clicked om Add a Credit Card or Debit Card button");
-
+		
 	}
 
 	@Then("User click on Place Your Order")
 	public void userClickOnPlaceYourOrder() {
+		waitTillClickable(factory.homePage().placeYourOrderBtn);
 		click(factory.homePage().placeYourOrderBtn);
 		logger.info("User clicked on Place Your Order");
 

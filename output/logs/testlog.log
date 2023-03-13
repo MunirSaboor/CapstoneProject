@@ -4151,3 +4151,1150 @@
 2023-03-09 23:41:40,772 - logger_File -INFO - User clicked on Account Button
 2023-03-09 23:41:41,445 - logger_File -INFO - User click on remove option of Address section
 2023-03-09 23:41:41,464 - logger_File -INFO - Address details should be removed
+2023-03-12 19:38:30,441 - logger_File -INFO - user is on retail website
+2023-03-12 19:38:30,515 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 19:38:30,661 - logger_File -INFO - user clicked on sign in option
+2023-03-12 19:38:30,941 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 19:38:31,080 - logger_File -INFO - Login button is enabled
+2023-03-12 19:38:32,713 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 19:38:32,842 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 19:38:32,931 - logger_File -INFO - User clicked on search Button
+2023-03-12 19:38:34,047 - logger_File -INFO - user clicked on product
+2023-03-12 19:38:35,128 - logger_File -INFO - User selected the required quantity
+2023-03-12 19:38:35,216 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 19:38:35,257 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 19:38:35,366 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 19:38:35,492 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 19:38:35,623 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 19:38:36,543 - logger_File -INFO - User entered address into required field
+2023-03-12 19:38:36,748 - logger_File -INFO - User click Add Your Address button
+2023-03-12 19:46:58,174 - logger_File -INFO - user is on retail website
+2023-03-12 19:46:58,180 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 19:46:58,340 - logger_File -INFO - user clicked on sign in option
+2023-03-12 19:46:58,623 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 19:46:58,758 - logger_File -INFO - Login button is enabled
+2023-03-12 19:47:00,445 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 19:47:00,592 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 19:47:00,683 - logger_File -INFO - User clicked on search Button
+2023-03-12 19:47:01,732 - logger_File -INFO - user clicked on product
+2023-03-12 19:47:02,779 - logger_File -INFO - User selected the required quantity
+2023-03-12 19:47:02,873 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 19:47:02,908 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 19:47:03,027 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 19:47:04,276 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 19:47:04,407 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 19:47:05,332 - logger_File -INFO - User entered address into required field
+2023-03-12 19:47:10,521 - logger_File -INFO - User click Add Your Address button
+2023-03-12 19:47:41,674 - logger_File -INFO - user is on retail website
+2023-03-12 19:47:41,680 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 19:47:41,818 - logger_File -INFO - user clicked on sign in option
+2023-03-12 19:47:42,079 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 19:47:42,217 - logger_File -INFO - Login button is enabled
+2023-03-12 19:47:43,968 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 19:47:44,105 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 19:47:44,193 - logger_File -INFO - User clicked on search Button
+2023-03-12 19:47:45,242 - logger_File -INFO - user clicked on product
+2023-03-12 19:47:46,273 - logger_File -INFO - User selected the required quantity
+2023-03-12 19:47:46,360 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 19:47:46,393 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 19:47:46,507 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 19:47:46,635 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 19:47:46,764 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 19:47:47,691 - logger_File -INFO - User entered address into required field
+2023-03-12 19:47:52,885 - logger_File -INFO - User click Add Your Address button
+2023-03-12 19:50:16,829 - logger_File -INFO - user is on retail website
+2023-03-12 19:50:16,834 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 19:50:16,986 - logger_File -INFO - user clicked on sign in option
+2023-03-12 19:50:17,251 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 19:50:17,388 - logger_File -INFO - Login button is enabled
+2023-03-12 19:50:19,137 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 19:50:19,273 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 19:50:19,363 - logger_File -INFO - User clicked on search Button
+2023-03-12 19:50:20,467 - logger_File -INFO - user clicked on product
+2023-03-12 19:50:21,494 - logger_File -INFO - User selected the required quantity
+2023-03-12 19:50:21,587 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 19:50:21,622 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 19:50:21,758 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 19:50:21,888 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 19:50:22,016 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 19:50:22,988 - logger_File -INFO - User entered address into required field
+2023-03-12 19:50:28,167 - logger_File -INFO - User click Add Your Address button
+2023-03-12 19:51:34,491 - logger_File -INFO - user is on retail website
+2023-03-12 19:51:34,495 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 19:51:34,638 - logger_File -INFO - user clicked on sign in option
+2023-03-12 19:51:34,905 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 19:51:35,051 - logger_File -INFO - Login button is enabled
+2023-03-12 19:51:36,766 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 19:51:36,897 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 19:51:36,991 - logger_File -INFO - User clicked on search Button
+2023-03-12 19:51:38,108 - logger_File -INFO - user clicked on product
+2023-03-12 19:51:39,133 - logger_File -INFO - User selected the required quantity
+2023-03-12 19:51:39,220 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 19:51:39,253 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 19:51:39,375 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 19:51:39,510 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 19:51:39,643 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 19:51:40,590 - logger_File -INFO - User entered address into required field
+2023-03-12 19:51:45,783 - logger_File -INFO - User click Add Your Address button
+2023-03-12 20:00:49,917 - logger_File -INFO - user is on retail website
+2023-03-12 20:00:49,922 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 20:00:50,065 - logger_File -INFO - user clicked on sign in option
+2023-03-12 20:00:50,331 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 20:00:50,463 - logger_File -INFO - Login button is enabled
+2023-03-12 20:00:52,245 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 20:00:52,371 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 20:00:52,460 - logger_File -INFO - User clicked on search Button
+2023-03-12 20:00:53,564 - logger_File -INFO - user clicked on product
+2023-03-12 20:00:54,581 - logger_File -INFO - User selected the required quantity
+2023-03-12 20:00:54,667 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 20:00:54,695 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 20:00:54,814 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 20:00:54,952 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 20:00:55,081 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 20:00:56,012 - logger_File -INFO - User entered address into required field
+2023-03-12 20:01:01,199 - logger_File -INFO - User click Add Your Address button
+2023-03-12 20:07:27,088 - logger_File -INFO - user is on retail website
+2023-03-12 20:07:27,093 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 20:07:27,373 - logger_File -INFO - user searched for product pokemon
+2023-03-12 20:07:28,658 - logger_File -INFO - the Product is displayed on home page
+2023-03-12 20:07:36,116 - logger_File -INFO - user is on retail website
+2023-03-12 20:07:36,117 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 20:07:36,270 - logger_File -INFO - User clicked on All section
+2023-03-12 20:07:37,500 - logger_File -INFO - Electronicsis equal to Electronics
+2023-03-12 20:07:37,546 - logger_File -INFO - Computersis equal to Computers
+2023-03-12 20:07:37,584 - logger_File -INFO - Smart Homeis equal to Smart Home
+2023-03-12 20:07:37,625 - logger_File -INFO - Sportsis equal to Sports
+2023-03-12 20:07:37,666 - logger_File -INFO - Automativeis equal to Automative
+2023-03-12 20:07:45,147 - logger_File -INFO - user is on retail website
+2023-03-12 20:07:45,148 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 20:07:45,292 - logger_File -INFO - User clicked on All section
+2023-03-12 20:07:46,457 - logger_File -INFO - TV & Videois present
+2023-03-12 20:07:46,508 - logger_File -INFO - Video Gamesis present
+2023-03-12 20:07:54,362 - logger_File -INFO - user is on retail website
+2023-03-12 20:07:54,363 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 20:07:54,510 - logger_File -INFO - User clicked on All section
+2023-03-12 20:07:55,895 - logger_File -INFO - Accessoriesis present
+2023-03-12 20:07:55,947 - logger_File -INFO - Networkingis present
+2023-03-12 20:08:03,309 - logger_File -INFO - user is on retail website
+2023-03-12 20:08:03,310 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 20:08:03,481 - logger_File -INFO - User clicked on All section
+2023-03-12 20:08:04,977 - logger_File -INFO - Smart Home Lightningis present
+2023-03-12 20:08:05,033 - logger_File -INFO - Plugs and Outletsis present
+2023-03-12 20:08:12,327 - logger_File -INFO - user is on retail website
+2023-03-12 20:08:12,328 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 20:08:12,471 - logger_File -INFO - User clicked on All section
+2023-03-12 20:08:13,897 - logger_File -INFO - Athletic Clothingis present
+2023-03-12 20:08:13,952 - logger_File -INFO - Exercise & Fitnessis present
+2023-03-12 20:08:21,869 - logger_File -INFO - user is on retail website
+2023-03-12 20:08:21,870 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 20:08:22,006 - logger_File -INFO - User clicked on All section
+2023-03-12 20:08:23,429 - logger_File -INFO - Automative Parts & Accessoriesis present
+2023-03-12 20:08:23,485 - logger_File -INFO - MotorCycle & Powersportsis present
+2023-03-12 20:08:30,841 - logger_File -INFO - user is on retail website
+2023-03-12 20:08:30,842 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 20:08:30,965 - logger_File -INFO - user clicked on sign in option
+2023-03-12 20:08:31,227 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 20:08:31,350 - logger_File -INFO - Login button is enabled
+2023-03-12 20:08:32,952 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 20:08:33,082 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 20:08:33,169 - logger_File -INFO - User clicked on search Button
+2023-03-12 20:08:34,328 - logger_File -INFO - user clicked on product
+2023-03-12 20:08:35,330 - logger_File -INFO - User selected the required quantity
+2023-03-12 20:08:35,418 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 20:08:35,445 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 20:08:43,340 - logger_File -INFO - user is on retail website
+2023-03-12 20:08:43,341 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 20:08:43,461 - logger_File -INFO - user clicked on sign in option
+2023-03-12 20:08:43,717 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 20:08:43,832 - logger_File -INFO - Login button is enabled
+2023-03-12 20:08:45,415 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 20:08:45,539 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 20:08:45,622 - logger_File -INFO - User clicked on search Button
+2023-03-12 20:08:46,773 - logger_File -INFO - user clicked on product
+2023-03-12 20:08:47,780 - logger_File -INFO - User selected the required quantity
+2023-03-12 20:08:47,863 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 20:08:47,890 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 20:08:48,012 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 20:08:48,141 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 20:08:48,281 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 20:08:49,188 - logger_File -INFO - User entered address into required field
+2023-03-12 20:08:54,378 - logger_File -INFO - User click Add Your Address button
+2023-03-12 20:09:03,578 - logger_File -INFO - user is on retail website
+2023-03-12 20:09:03,578 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 20:09:03,714 - logger_File -INFO - user clicked on sign in option
+2023-03-12 20:09:03,994 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 20:09:04,131 - logger_File -INFO - Login button is enabled
+2023-03-12 20:09:05,967 - logger_File -INFO - User changed the category to Electronics
+2023-03-12 20:09:06,079 - logger_File -INFO - Expected inpurt inserted Apex Legends
+2023-03-12 20:09:06,162 - logger_File -INFO - User clicked on search Button
+2023-03-12 20:09:07,331 - logger_File -INFO - user clicked on product
+2023-03-12 20:09:08,328 - logger_File -INFO - User selected the required quantity
+2023-03-12 20:09:08,413 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 20:53:01,144 - logger_File -INFO - user is on retail website
+2023-03-12 20:53:01,199 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 20:53:01,351 - logger_File -INFO - user clicked on sign in option
+2023-03-12 20:53:01,617 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 20:53:01,759 - logger_File -INFO - Login button is enabled
+2023-03-12 20:53:03,428 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 20:53:03,560 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 20:53:03,650 - logger_File -INFO - User clicked on search Button
+2023-03-12 20:53:04,859 - logger_File -INFO - user clicked on product
+2023-03-12 20:53:05,904 - logger_File -INFO - User selected the required quantity
+2023-03-12 20:53:05,993 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 20:53:06,021 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 20:53:06,150 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 20:53:06,266 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 20:53:06,400 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 20:53:07,335 - logger_File -INFO - User entered address into required field
+2023-03-12 20:53:12,525 - logger_File -INFO - User click Add Your Address button
+2023-03-12 20:56:53,472 - logger_File -INFO - user is on retail website
+2023-03-12 20:56:53,478 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 20:56:53,623 - logger_File -INFO - user clicked on sign in option
+2023-03-12 20:56:53,881 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 20:56:54,016 - logger_File -INFO - Login button is enabled
+2023-03-12 20:56:55,760 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 20:56:55,887 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 20:56:55,978 - logger_File -INFO - User clicked on search Button
+2023-03-12 20:56:57,169 - logger_File -INFO - user clicked on product
+2023-03-12 20:56:58,197 - logger_File -INFO - User selected the required quantity
+2023-03-12 20:56:58,291 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 20:56:58,321 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 20:56:58,439 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 20:56:58,548 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 20:56:58,756 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 20:56:59,813 - logger_File -INFO - User entered address into required field
+2023-03-12 20:57:05,006 - logger_File -INFO - User click Add Your Address button
+2023-03-12 21:01:23,994 - logger_File -INFO - user is on retail website
+2023-03-12 21:01:23,999 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:01:24,151 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:01:24,418 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:01:24,558 - logger_File -INFO - Login button is enabled
+2023-03-12 21:01:26,297 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 21:01:26,427 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 21:01:26,520 - logger_File -INFO - User clicked on search Button
+2023-03-12 21:01:27,668 - logger_File -INFO - user clicked on product
+2023-03-12 21:01:28,694 - logger_File -INFO - User selected the required quantity
+2023-03-12 21:01:28,790 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 21:01:28,820 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 21:01:28,945 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 21:01:29,073 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 21:01:29,212 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 21:01:30,161 - logger_File -INFO - User entered address into required field
+2023-03-12 21:01:35,354 - logger_File -INFO - User click Add Your Address button
+2023-03-12 21:05:24,507 - logger_File -INFO - user is on retail website
+2023-03-12 21:05:24,513 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:05:24,653 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:05:24,917 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:05:25,050 - logger_File -INFO - Login button is enabled
+2023-03-12 21:05:26,835 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 21:05:26,978 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 21:05:27,070 - logger_File -INFO - User clicked on search Button
+2023-03-12 21:05:28,146 - logger_File -INFO - user clicked on product
+2023-03-12 21:05:29,223 - logger_File -INFO - User selected the required quantity
+2023-03-12 21:05:29,314 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 21:05:29,343 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 21:05:29,464 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 21:05:29,603 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 21:05:29,733 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 21:05:30,669 - logger_File -INFO - User entered address into required field
+2023-03-12 21:05:35,848 - logger_File -INFO - User click Add Your Address button
+2023-03-12 21:12:00,696 - logger_File -INFO - user is on retail website
+2023-03-12 21:12:00,703 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:12:00,848 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:12:01,115 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:12:01,248 - logger_File -INFO - Login button is enabled
+2023-03-12 21:12:02,977 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 21:12:03,109 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 21:12:03,203 - logger_File -INFO - User clicked on search Button
+2023-03-12 21:12:04,339 - logger_File -INFO - user clicked on product
+2023-03-12 21:12:05,469 - logger_File -INFO - User selected the required quantity
+2023-03-12 21:12:05,555 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 21:12:05,619 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 21:12:05,766 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 21:12:05,902 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 21:12:06,033 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 21:12:06,952 - logger_File -INFO - User entered address into required field
+2023-03-12 21:12:12,140 - logger_File -INFO - User click Add Your Address button
+2023-03-12 21:13:48,152 - logger_File -INFO - user is on retail website
+2023-03-12 21:13:48,160 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:13:48,326 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:13:48,587 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:13:48,721 - logger_File -INFO - Login button is enabled
+2023-03-12 21:13:50,435 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 21:13:50,566 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 21:13:50,662 - logger_File -INFO - User clicked on search Button
+2023-03-12 21:13:51,855 - logger_File -INFO - user clicked on product
+2023-03-12 21:13:52,876 - logger_File -INFO - User selected the required quantity
+2023-03-12 21:13:52,966 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 21:13:52,998 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 21:13:53,116 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 21:13:53,255 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 21:13:53,392 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 21:13:54,329 - logger_File -INFO - User entered address into required field
+2023-03-12 21:13:59,544 - logger_File -INFO - User click Add Your Address button
+2023-03-12 21:15:40,993 - logger_File -INFO - user is on retail website
+2023-03-12 21:15:41,000 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:15:41,146 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:15:41,414 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:15:41,551 - logger_File -INFO - Login button is enabled
+2023-03-12 21:15:43,258 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 21:15:43,391 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 21:15:43,481 - logger_File -INFO - User clicked on search Button
+2023-03-12 21:15:44,651 - logger_File -INFO - user clicked on product
+2023-03-12 21:15:45,670 - logger_File -INFO - User selected the required quantity
+2023-03-12 21:15:45,759 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 21:15:45,789 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 21:15:45,911 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 21:15:46,040 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 21:15:46,170 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 21:15:47,107 - logger_File -INFO - User entered address into required field
+2023-03-12 21:15:52,288 - logger_File -INFO - User click Add Your Address button
+2023-03-12 21:21:56,825 - logger_File -INFO - user is on retail website
+2023-03-12 21:21:56,831 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:21:56,974 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:21:57,236 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:21:57,368 - logger_File -INFO - Login button is enabled
+2023-03-12 21:21:59,154 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 21:21:59,290 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 21:21:59,378 - logger_File -INFO - User clicked on search Button
+2023-03-12 21:22:00,444 - logger_File -INFO - user clicked on product
+2023-03-12 21:22:01,516 - logger_File -INFO - User selected the required quantity
+2023-03-12 21:22:01,609 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 21:22:01,641 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 21:22:01,770 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 21:22:01,899 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 21:22:02,032 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 21:22:02,975 - logger_File -INFO - User entered address into required field
+2023-03-12 21:22:03,152 - logger_File -INFO - User click Add Your Address button
+2023-03-12 21:29:44,471 - logger_File -INFO - user is on retail website
+2023-03-12 21:29:44,476 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:29:45,303 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:29:45,554 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:29:45,887 - logger_File -INFO - Login button is enabled
+2023-03-12 21:29:47,101 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 21:29:47,197 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 21:29:47,456 - logger_File -INFO - User clicked on search Button
+2023-03-12 21:29:49,458 - logger_File -INFO - user clicked on product
+2023-03-12 21:29:50,441 - logger_File -INFO - User selected the required quantity
+2023-03-12 21:29:50,721 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 21:29:50,741 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 21:29:51,016 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 21:29:51,329 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 21:29:51,643 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 21:29:52,658 - logger_File -INFO - User entered address into required field
+2023-03-12 21:29:53,173 - logger_File -INFO - User click Add Your Address button
+2023-03-12 21:31:33,391 - logger_File -INFO - user is on retail website
+2023-03-12 21:31:33,396 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:31:33,736 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:31:33,923 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:31:34,233 - logger_File -INFO - Login button is enabled
+2023-03-12 21:31:35,426 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:31:35,620 - logger_File -INFO - User Entered the required values
+2023-03-12 21:32:15,143 - logger_File -INFO - user is on retail website
+2023-03-12 21:32:15,144 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:32:15,475 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:32:15,679 - logger_File -INFO - User Entered email update.password@gmail.comuser Entered password Salam@123
+2023-03-12 21:32:15,972 - logger_File -INFO - Login button is enabled
+2023-03-12 21:32:54,369 - logger_File -INFO - user is on retail website
+2023-03-12 21:32:54,374 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:32:54,702 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:32:54,890 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:32:55,217 - logger_File -INFO - Login button is enabled
+2023-03-12 21:32:56,956 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 21:32:57,043 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 21:32:57,316 - logger_File -INFO - User clicked on search Button
+2023-03-12 21:32:59,147 - logger_File -INFO - user clicked on product
+2023-03-12 21:33:00,120 - logger_File -INFO - User selected the required quantity
+2023-03-12 21:33:00,401 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 21:33:00,440 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 21:33:00,717 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 21:33:01,013 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 21:33:01,310 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 21:33:02,269 - logger_File -INFO - User entered address into required field
+2023-03-12 21:33:02,583 - logger_File -INFO - User click Add Your Address button
+2023-03-12 21:33:52,374 - logger_File -INFO - user is on retail website
+2023-03-12 21:33:52,376 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:33:52,710 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:33:52,900 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:33:53,214 - logger_File -INFO - Login button is enabled
+2023-03-12 21:33:54,392 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:33:54,659 - logger_File -INFO - User clicked on add a payment method link
+2023-03-12 21:34:46,604 - logger_File -INFO - user is on retail website
+2023-03-12 21:34:46,610 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:34:46,763 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:34:47,019 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:34:47,150 - logger_File -INFO - Login button is enabled
+2023-03-12 21:34:48,877 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 21:34:49,001 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 21:34:49,097 - logger_File -INFO - User clicked on search Button
+2023-03-12 21:34:50,246 - logger_File -INFO - user clicked on product
+2023-03-12 21:34:51,317 - logger_File -INFO - User selected the required quantity
+2023-03-12 21:34:51,403 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 21:34:51,433 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 21:34:51,560 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 21:34:51,691 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 21:34:51,827 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 21:34:52,755 - logger_File -INFO - User entered address into required field
+2023-03-12 21:34:52,957 - logger_File -INFO - User click Add Your Address button
+2023-03-12 21:35:09,252 - logger_File -INFO - User clicked om Add a Credit Card or Debit Card button
+2023-03-12 21:35:37,456 - logger_File -INFO - user is on retail website
+2023-03-12 21:35:37,462 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:35:37,615 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:35:37,883 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:35:38,015 - logger_File -INFO - Login button is enabled
+2023-03-12 21:35:39,767 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:35:39,865 - logger_File -INFO - User clicked on add a payment method link
+2023-03-12 21:41:30,588 - logger_File -INFO - user is on retail website
+2023-03-12 21:41:30,593 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:41:30,745 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:41:31,011 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:41:31,148 - logger_File -INFO - Login button is enabled
+2023-03-12 21:41:32,908 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:41:33,008 - logger_File -INFO - User clicked on add a payment method link
+2023-03-12 21:43:57,829 - logger_File -INFO - user is on retail website
+2023-03-12 21:43:57,833 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:43:58,010 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:43:58,272 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:43:58,409 - logger_File -INFO - Login button is enabled
+2023-03-12 21:44:00,172 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:44:00,278 - logger_File -INFO - User clicked on add a payment method link
+2023-03-12 21:48:21,537 - logger_File -INFO - user is on retail website
+2023-03-12 21:48:21,542 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:48:21,794 - logger_File -INFO - user searched for product pokemon
+2023-03-12 21:48:23,092 - logger_File -INFO - the Product is displayed on home page
+2023-03-12 21:48:31,005 - logger_File -INFO - user is on retail website
+2023-03-12 21:48:31,006 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:48:31,158 - logger_File -INFO - User clicked on All section
+2023-03-12 21:48:32,475 - logger_File -INFO - Electronicsis equal to Electronics
+2023-03-12 21:48:32,514 - logger_File -INFO - Computersis equal to Computers
+2023-03-12 21:48:32,554 - logger_File -INFO - Smart Homeis equal to Smart Home
+2023-03-12 21:48:32,591 - logger_File -INFO - Sportsis equal to Sports
+2023-03-12 21:48:32,631 - logger_File -INFO - Automativeis equal to Automative
+2023-03-12 21:48:39,906 - logger_File -INFO - user is on retail website
+2023-03-12 21:48:39,906 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:48:40,051 - logger_File -INFO - User clicked on All section
+2023-03-12 21:48:41,189 - logger_File -INFO - TV & Videois present
+2023-03-12 21:48:41,244 - logger_File -INFO - Video Gamesis present
+2023-03-12 21:48:50,680 - logger_File -INFO - user is on retail website
+2023-03-12 21:48:50,681 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:48:50,825 - logger_File -INFO - User clicked on All section
+2023-03-12 21:48:52,218 - logger_File -INFO - Accessoriesis present
+2023-03-12 21:48:52,269 - logger_File -INFO - Networkingis present
+2023-03-12 21:48:59,995 - logger_File -INFO - user is on retail website
+2023-03-12 21:48:59,996 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:49:00,145 - logger_File -INFO - User clicked on All section
+2023-03-12 21:49:01,581 - logger_File -INFO - Smart Home Lightningis present
+2023-03-12 21:49:01,633 - logger_File -INFO - Plugs and Outletsis present
+2023-03-12 21:49:10,184 - logger_File -INFO - user is on retail website
+2023-03-12 21:49:10,184 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:49:10,318 - logger_File -INFO - User clicked on All section
+2023-03-12 21:49:11,766 - logger_File -INFO - Athletic Clothingis present
+2023-03-12 21:49:11,825 - logger_File -INFO - Exercise & Fitnessis present
+2023-03-12 21:49:20,033 - logger_File -INFO - user is on retail website
+2023-03-12 21:49:20,034 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:49:20,162 - logger_File -INFO - User clicked on All section
+2023-03-12 21:49:21,641 - logger_File -INFO - Automative Parts & Accessoriesis present
+2023-03-12 21:49:21,693 - logger_File -INFO - MotorCycle & Powersportsis present
+2023-03-12 21:49:29,152 - logger_File -INFO - user is on retail website
+2023-03-12 21:49:29,153 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:49:29,284 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:49:29,537 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:49:29,659 - logger_File -INFO - Login button is enabled
+2023-03-12 21:49:31,271 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 21:49:31,399 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 21:49:31,482 - logger_File -INFO - User clicked on search Button
+2023-03-12 21:49:32,576 - logger_File -INFO - user clicked on product
+2023-03-12 21:49:33,602 - logger_File -INFO - User selected the required quantity
+2023-03-12 21:49:33,687 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 21:49:33,714 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 21:49:41,383 - logger_File -INFO - user is on retail website
+2023-03-12 21:49:41,384 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:49:41,507 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:49:41,761 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:49:41,881 - logger_File -INFO - Login button is enabled
+2023-03-12 21:49:43,738 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 21:49:43,861 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 21:49:43,942 - logger_File -INFO - User clicked on search Button
+2023-03-12 21:49:45,141 - logger_File -INFO - user clicked on product
+2023-03-12 21:49:46,149 - logger_File -INFO - User selected the required quantity
+2023-03-12 21:49:46,238 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 21:49:46,265 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 21:49:46,396 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 21:49:46,516 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 21:49:46,639 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 21:49:47,529 - logger_File -INFO - User entered address into required field
+2023-03-12 21:49:52,719 - logger_File -INFO - User click Add Your Address button
+2023-03-12 21:50:03,392 - logger_File -INFO - User clicked om Add a Credit Card or Debit Card button
+2023-03-12 21:50:31,758 - logger_File -INFO - user is on retail website
+2023-03-12 21:50:31,759 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:50:31,971 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:50:32,291 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:50:32,427 - logger_File -INFO - Login button is enabled
+2023-03-12 21:50:34,108 - logger_File -INFO - User changed the category to Electronics
+2023-03-12 21:50:34,235 - logger_File -INFO - Expected inpurt inserted Apex Legends
+2023-03-12 21:50:34,326 - logger_File -INFO - User clicked on search Button
+2023-03-12 21:50:34,735 - logger_File -INFO - user is on retail website
+2023-03-12 21:50:34,741 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:50:34,944 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:50:35,242 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:50:35,422 - logger_File -INFO - user clicked on product
+2023-03-12 21:50:35,426 - logger_File -INFO - Login button is enabled
+2023-03-12 21:50:36,477 - logger_File -INFO - User selected the required quantity
+2023-03-12 21:50:36,569 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 21:50:36,821 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:50:37,378 - logger_File -INFO - User Entered the required values
+2023-03-12 21:50:37,592 - logger_File -INFO - User clicked on update button
+2023-03-12 21:50:39,183 - logger_File -INFO - user profile information should be updated
+2023-03-12 21:50:47,080 - logger_File -INFO - user is on retail website
+2023-03-12 21:50:47,081 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:50:47,218 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:50:47,504 - logger_File -INFO - User Entered email update.password@gmail.comuser Entered password Tek@1234
+2023-03-12 21:50:47,638 - logger_File -INFO - Login button is enabled
+2023-03-12 21:50:49,199 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:50:49,601 - logger_File -INFO - User entered required information
+2023-03-12 21:50:49,735 - logger_File -INFO - User clicked on Change Password button
+2023-03-12 21:50:51,643 - logger_File -INFO - a message should be displayed â€˜Password Updated Successfullyâ€™
+2023-03-12 21:51:02,442 - logger_File -INFO - user is on retail website
+2023-03-12 21:51:02,443 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:51:02,632 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:51:02,951 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:51:03,094 - logger_File -INFO - Login button is enabled
+2023-03-12 21:51:05,136 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:51:05,240 - logger_File -INFO - User clicked on add a payment method link
+2023-03-12 21:51:05,917 - logger_File -INFO - User filled Debit or credit card information
+2023-03-12 21:51:06,018 - logger_File -INFO - User clicked on add your card button
+2023-03-12 21:51:07,511 - logger_File -INFO - a message should be displayed â€˜Payment Method added successfullyâ€™
+2023-03-12 21:51:07,539 - logger_File -INFO - user is on retail website
+2023-03-12 21:51:07,540 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:51:07,675 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:51:08,001 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:51:08,146 - logger_File -INFO - Login button is enabled
+2023-03-12 21:51:09,763 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:51:10,526 - logger_File -INFO - User Entered the required values
+2023-03-12 21:51:16,260 - logger_File -INFO - user is on retail website
+2023-03-12 21:51:16,260 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:51:16,391 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:51:16,657 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:51:16,791 - logger_File -INFO - Login button is enabled
+2023-03-12 21:51:18,357 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:51:19,658 - logger_File -INFO - User clicked on Edit option of card section
+2023-03-12 21:51:20,403 - logger_File -INFO - user successfully edited information with required data
+2023-03-12 21:51:20,490 - logger_File -INFO - user clicked on Update Your Card button
+2023-03-12 21:51:21,957 - logger_File -INFO - a message should be displayed â€˜Payment Method updated Successfullyâ€™
+2023-03-12 21:51:31,477 - logger_File -INFO - user is on retail website
+2023-03-12 21:51:31,477 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:51:31,629 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:51:31,959 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:51:32,099 - logger_File -INFO - Login button is enabled
+2023-03-12 21:51:33,886 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:51:34,780 - logger_File -INFO - User clicked on remove option of card section
+2023-03-12 21:51:34,805 - logger_File -INFO - payment details should be removed
+2023-03-12 21:51:41,875 - logger_File -INFO - user is on retail website
+2023-03-12 21:51:41,876 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:51:42,020 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:51:42,311 - logger_File -INFO - User Entered email update.password@gmail.comuser Entered password Tek@1234
+2023-03-12 21:51:42,430 - logger_File -INFO - Login button is enabled
+2023-03-12 21:51:43,632 - logger_File -INFO - user is on retail website
+2023-03-12 21:51:43,632 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:51:43,774 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:51:44,032 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:51:44,152 - logger_File -INFO - Login button is enabled
+2023-03-12 21:51:45,780 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:51:45,938 - logger_File -INFO - User clicked on Add address option
+2023-03-12 21:51:47,373 - logger_File -INFO - user filled new address form with below information
+2023-03-12 21:51:47,527 - logger_File -INFO - User click Add Your Address button
+2023-03-12 21:51:49,002 - logger_File -INFO - a message should be displayed â€˜Address Added Successfullyâ€™
+2023-03-12 21:51:56,923 - logger_File -INFO - user is on retail website
+2023-03-12 21:51:56,923 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:51:57,065 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:51:57,324 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:51:57,444 - logger_File -INFO - Login button is enabled
+2023-03-12 21:51:59,041 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:51:59,122 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:51:59,933 - logger_File -INFO - User clicked on edit address option
+2023-03-12 21:52:01,563 - logger_File -INFO - user filled new address form with below information
+2023-03-12 21:52:01,677 - logger_File -INFO - User clicked update Your Address button
+2023-03-12 21:52:03,160 - logger_File -INFO - a message should be displayed â€˜Address Updated Successfullyâ€™
+2023-03-12 21:52:13,100 - logger_File -INFO - user is on retail website
+2023-03-12 21:52:13,101 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:52:13,236 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:52:13,528 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:52:13,644 - logger_File -INFO - Login button is enabled
+2023-03-12 21:52:14,571 - logger_File -INFO - user is on retail website
+2023-03-12 21:52:14,572 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:52:14,703 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:52:14,974 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:52:15,094 - logger_File -INFO - Login button is enabled
+2023-03-12 21:52:15,440 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:52:15,539 - logger_File -INFO - User clicked on add a payment method link
+2023-03-12 21:52:16,160 - logger_File -INFO - User filled Debit or credit card information
+2023-03-12 21:52:16,253 - logger_File -INFO - User clicked on add your card button
+2023-03-12 21:52:16,745 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:52:16,858 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:52:17,711 - logger_File -INFO - a message should be displayed â€˜Payment Method added successfullyâ€™
+2023-03-12 21:52:17,969 - logger_File -INFO - User click on remove option of Address section
+2023-03-12 21:52:17,983 - logger_File -INFO - Address details should be removed
+2023-03-12 21:52:26,799 - logger_File -INFO - user is on retail website
+2023-03-12 21:52:26,799 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:52:26,921 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:52:27,169 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:52:27,288 - logger_File -INFO - Login button is enabled
+2023-03-12 21:52:28,917 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:52:29,850 - logger_File -INFO - User clicked on Edit option of card section
+2023-03-12 21:52:30,474 - logger_File -INFO - user successfully edited information with required data
+2023-03-12 21:52:30,562 - logger_File -INFO - user clicked on Update Your Card button
+2023-03-12 21:52:32,060 - logger_File -INFO - a message should be displayed â€˜Payment Method updated Successfullyâ€™
+2023-03-12 21:52:40,453 - logger_File -INFO - user is on retail website
+2023-03-12 21:52:40,454 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:52:40,578 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:52:40,823 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:52:40,935 - logger_File -INFO - Login button is enabled
+2023-03-12 21:52:42,616 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:52:43,540 - logger_File -INFO - User clicked on remove option of card section
+2023-03-12 21:52:43,563 - logger_File -INFO - payment details should be removed
+2023-03-12 21:52:53,906 - logger_File -INFO - user is on retail website
+2023-03-12 21:52:53,906 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:52:54,031 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:52:54,282 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:52:54,398 - logger_File -INFO - Login button is enabled
+2023-03-12 21:52:56,031 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:52:56,161 - logger_File -INFO - User clicked on Add address option
+2023-03-12 21:52:57,477 - logger_File -INFO - user filled new address form with below information
+2023-03-12 21:52:57,617 - logger_File -INFO - User click Add Your Address button
+2023-03-12 21:52:59,070 - logger_File -INFO - a message should be displayed â€˜Address Added Successfullyâ€™
+2023-03-12 21:53:06,888 - logger_File -INFO - user is on retail website
+2023-03-12 21:53:06,888 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:53:07,013 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:53:07,256 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:53:07,368 - logger_File -INFO - Login button is enabled
+2023-03-12 21:53:09,014 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:53:09,084 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:53:09,924 - logger_File -INFO - User clicked on edit address option
+2023-03-12 21:53:11,214 - logger_File -INFO - user filled new address form with below information
+2023-03-12 21:53:11,304 - logger_File -INFO - User clicked update Your Address button
+2023-03-12 21:53:12,801 - logger_File -INFO - a message should be displayed â€˜Address Updated Successfullyâ€™
+2023-03-12 21:53:21,533 - logger_File -INFO - user is on retail website
+2023-03-12 21:53:21,534 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:53:21,654 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:53:21,905 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:53:22,020 - logger_File -INFO - Login button is enabled
+2023-03-12 21:53:23,926 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:53:23,992 - logger_File -INFO - User clicked on Account Button
+2023-03-12 21:53:25,145 - logger_File -INFO - User click on remove option of Address section
+2023-03-12 21:53:25,163 - logger_File -INFO - Address details should be removed
+2023-03-12 21:55:44,934 - logger_File -INFO - user is on retail website
+2023-03-12 21:55:44,940 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:55:45,078 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:55:45,340 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:55:45,470 - logger_File -INFO - Login button is enabled
+2023-03-12 21:55:47,214 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 21:55:47,339 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 21:55:47,426 - logger_File -INFO - User clicked on search Button
+2023-03-12 21:55:48,601 - logger_File -INFO - user clicked on product
+2023-03-12 21:55:49,616 - logger_File -INFO - User selected the required quantity
+2023-03-12 21:55:49,719 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 21:55:49,750 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 21:55:49,876 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 21:55:50,006 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 21:55:50,134 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 21:57:58,923 - logger_File -INFO - user is on retail website
+2023-03-12 21:57:58,929 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:57:59,199 - logger_File -INFO - user searched for product pokemon
+2023-03-12 21:58:00,491 - logger_File -INFO - the Product is displayed on home page
+2023-03-12 21:58:08,121 - logger_File -INFO - user is on retail website
+2023-03-12 21:58:08,122 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:58:08,279 - logger_File -INFO - User clicked on All section
+2023-03-12 21:58:09,562 - logger_File -INFO - Electronicsis equal to Electronics
+2023-03-12 21:58:09,599 - logger_File -INFO - Computersis equal to Computers
+2023-03-12 21:58:09,639 - logger_File -INFO - Smart Homeis equal to Smart Home
+2023-03-12 21:58:09,679 - logger_File -INFO - Sportsis equal to Sports
+2023-03-12 21:58:09,719 - logger_File -INFO - Automativeis equal to Automative
+2023-03-12 21:58:17,431 - logger_File -INFO - user is on retail website
+2023-03-12 21:58:17,432 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:58:17,572 - logger_File -INFO - User clicked on All section
+2023-03-12 21:58:18,754 - logger_File -INFO - TV & Videois present
+2023-03-12 21:58:18,811 - logger_File -INFO - Video Gamesis present
+2023-03-12 21:58:26,784 - logger_File -INFO - user is on retail website
+2023-03-12 21:58:26,784 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:58:26,922 - logger_File -INFO - User clicked on All section
+2023-03-12 21:58:28,445 - logger_File -INFO - Accessoriesis present
+2023-03-12 21:58:28,499 - logger_File -INFO - Networkingis present
+2023-03-12 21:58:35,896 - logger_File -INFO - user is on retail website
+2023-03-12 21:58:35,897 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:58:36,044 - logger_File -INFO - User clicked on All section
+2023-03-12 21:58:37,457 - logger_File -INFO - Smart Home Lightningis present
+2023-03-12 21:58:37,508 - logger_File -INFO - Plugs and Outletsis present
+2023-03-12 21:58:45,413 - logger_File -INFO - user is on retail website
+2023-03-12 21:58:45,414 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:58:45,549 - logger_File -INFO - User clicked on All section
+2023-03-12 21:58:46,991 - logger_File -INFO - Athletic Clothingis present
+2023-03-12 21:58:47,043 - logger_File -INFO - Exercise & Fitnessis present
+2023-03-12 21:58:54,530 - logger_File -INFO - user is on retail website
+2023-03-12 21:58:54,530 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:58:54,663 - logger_File -INFO - User clicked on All section
+2023-03-12 21:58:56,139 - logger_File -INFO - Automative Parts & Accessoriesis present
+2023-03-12 21:58:56,196 - logger_File -INFO - MotorCycle & Powersportsis present
+2023-03-12 21:59:04,200 - logger_File -INFO - user is on retail website
+2023-03-12 21:59:04,201 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:59:04,328 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:59:04,578 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:59:04,703 - logger_File -INFO - Login button is enabled
+2023-03-12 21:59:06,559 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 21:59:06,683 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 21:59:06,767 - logger_File -INFO - User clicked on search Button
+2023-03-12 21:59:07,946 - logger_File -INFO - user clicked on product
+2023-03-12 21:59:08,952 - logger_File -INFO - User selected the required quantity
+2023-03-12 21:59:09,035 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 21:59:09,062 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 21:59:16,674 - logger_File -INFO - user is on retail website
+2023-03-12 21:59:16,675 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 21:59:16,800 - logger_File -INFO - user clicked on sign in option
+2023-03-12 21:59:17,055 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 21:59:17,174 - logger_File -INFO - Login button is enabled
+2023-03-12 21:59:19,206 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 21:59:19,339 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 21:59:19,420 - logger_File -INFO - User clicked on search Button
+2023-03-12 21:59:20,720 - logger_File -INFO - user clicked on product
+2023-03-12 21:59:21,722 - logger_File -INFO - User selected the required quantity
+2023-03-12 21:59:21,805 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 21:59:21,838 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 21:59:21,967 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 21:59:22,099 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 21:59:22,218 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 21:59:23,094 - logger_File -INFO - User entered address into required field
+2023-03-12 21:59:28,270 - logger_File -INFO - User click Add Your Address button
+2023-03-12 22:00:07,033 - logger_File -INFO - user is on retail website
+2023-03-12 22:00:07,033 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:00:07,164 - logger_File -INFO - user clicked on sign in option
+2023-03-12 22:00:07,437 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 22:00:07,566 - logger_File -INFO - Login button is enabled
+2023-03-12 22:00:09,552 - logger_File -INFO - User changed the category to Electronics
+2023-03-12 22:00:09,666 - logger_File -INFO - Expected inpurt inserted Apex Legends
+2023-03-12 22:00:09,749 - logger_File -INFO - User clicked on search Button
+2023-03-12 22:00:10,863 - logger_File -INFO - user clicked on product
+2023-03-12 22:00:11,912 - logger_File -INFO - User selected the required quantity
+2023-03-12 22:00:11,993 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 22:00:12,953 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 22:00:13,067 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 22:00:13,184 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 22:00:13,303 - logger_File -INFO - User clicked on Place Your Order
+2023-03-12 22:00:16,217 - logger_File -INFO - Order Successfully Message displayed
+2023-03-12 22:35:46,654 - logger_File -INFO - user is on retail website
+2023-03-12 22:35:46,659 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:35:46,913 - logger_File -INFO - user searched for product pokemon
+2023-03-12 22:35:48,248 - logger_File -INFO - the Product is displayed on home page
+2023-03-12 22:35:55,393 - logger_File -INFO - user is on retail website
+2023-03-12 22:35:55,394 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:35:55,542 - logger_File -INFO - User clicked on All section
+2023-03-12 22:35:56,822 - logger_File -INFO - Electronicsis equal to Electronics
+2023-03-12 22:35:56,863 - logger_File -INFO - Computersis equal to Computers
+2023-03-12 22:35:56,901 - logger_File -INFO - Smart Homeis equal to Smart Home
+2023-03-12 22:35:56,940 - logger_File -INFO - Sportsis equal to Sports
+2023-03-12 22:35:56,979 - logger_File -INFO - Automativeis equal to Automative
+2023-03-12 22:36:05,654 - logger_File -INFO - user is on retail website
+2023-03-12 22:36:05,655 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:36:05,802 - logger_File -INFO - User clicked on All section
+2023-03-12 22:36:07,186 - logger_File -INFO - TV & Videois present
+2023-03-12 22:36:07,242 - logger_File -INFO - Video Gamesis present
+2023-03-12 22:36:14,895 - logger_File -INFO - user is on retail website
+2023-03-12 22:36:14,896 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:36:15,037 - logger_File -INFO - User clicked on All section
+2023-03-12 22:36:16,140 - logger_File -INFO - Accessoriesis present
+2023-03-12 22:36:16,193 - logger_File -INFO - Networkingis present
+2023-03-12 22:36:23,387 - logger_File -INFO - user is on retail website
+2023-03-12 22:36:23,387 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:36:23,525 - logger_File -INFO - User clicked on All section
+2023-03-12 22:36:25,038 - logger_File -INFO - Smart Home Lightningis present
+2023-03-12 22:36:25,096 - logger_File -INFO - Plugs and Outletsis present
+2023-03-12 22:36:33,262 - logger_File -INFO - user is on retail website
+2023-03-12 22:36:33,263 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:36:33,396 - logger_File -INFO - User clicked on All section
+2023-03-12 22:36:34,830 - logger_File -INFO - Athletic Clothingis present
+2023-03-12 22:36:34,883 - logger_File -INFO - Exercise & Fitnessis present
+2023-03-12 22:36:43,945 - logger_File -INFO - user is on retail website
+2023-03-12 22:36:43,946 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:36:44,079 - logger_File -INFO - User clicked on All section
+2023-03-12 22:36:45,523 - logger_File -INFO - Automative Parts & Accessoriesis present
+2023-03-12 22:36:45,575 - logger_File -INFO - MotorCycle & Powersportsis present
+2023-03-12 22:36:53,022 - logger_File -INFO - user is on retail website
+2023-03-12 22:36:53,023 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:36:53,150 - logger_File -INFO - user clicked on sign in option
+2023-03-12 22:36:53,404 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 22:36:53,530 - logger_File -INFO - Login button is enabled
+2023-03-12 22:36:55,109 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 22:36:55,237 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 22:36:55,320 - logger_File -INFO - User clicked on search Button
+2023-03-12 22:36:56,427 - logger_File -INFO - user clicked on product
+2023-03-12 22:36:57,435 - logger_File -INFO - User selected the required quantity
+2023-03-12 22:36:57,524 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 22:36:57,552 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 22:37:06,075 - logger_File -INFO - user is on retail website
+2023-03-12 22:37:06,076 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:37:06,204 - logger_File -INFO - user clicked on sign in option
+2023-03-12 22:37:06,450 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 22:37:06,571 - logger_File -INFO - Login button is enabled
+2023-03-12 22:37:08,419 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 22:37:08,551 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 22:37:08,635 - logger_File -INFO - User clicked on search Button
+2023-03-12 22:37:09,820 - logger_File -INFO - user clicked on product
+2023-03-12 22:37:10,833 - logger_File -INFO - User selected the required quantity
+2023-03-12 22:37:10,919 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 22:37:10,950 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 22:37:11,075 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 22:37:12,289 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 22:37:12,423 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 22:37:13,309 - logger_File -INFO - User entered address into required field
+2023-03-12 22:37:18,518 - logger_File -INFO - User click Add Your Address button
+2023-03-12 22:37:57,323 - logger_File -INFO - user is on retail website
+2023-03-12 22:37:57,324 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:37:57,456 - logger_File -INFO - user clicked on sign in option
+2023-03-12 22:37:57,740 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 22:37:57,859 - logger_File -INFO - Login button is enabled
+2023-03-12 22:37:59,691 - logger_File -INFO - User changed the category to Electronics
+2023-03-12 22:37:59,804 - logger_File -INFO - Expected inpurt inserted Apex Legends
+2023-03-12 22:37:59,895 - logger_File -INFO - User clicked on search Button
+2023-03-12 22:38:00,981 - logger_File -INFO - user clicked on product
+2023-03-12 22:38:02,016 - logger_File -INFO - User selected the required quantity
+2023-03-12 22:38:02,104 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 22:38:02,130 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 22:38:02,253 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 22:38:02,396 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 22:38:02,515 - logger_File -INFO - User clicked on Place Your Order
+2023-03-12 22:38:04,879 - logger_File -INFO - Order Successfully Message displayed
+2023-03-12 22:41:52,454 - logger_File -INFO - user is on retail website
+2023-03-12 22:41:52,461 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:41:52,605 - logger_File -INFO - user clicked on sign in option
+2023-03-12 22:41:52,861 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 22:41:52,991 - logger_File -INFO - Login button is enabled
+2023-03-12 22:41:54,806 - logger_File -INFO - User clicked on Account Button
+2023-03-12 22:41:54,910 - logger_File -INFO - User clicked on add a payment method link
+2023-03-12 22:41:55,569 - logger_File -INFO - User filled Debit or credit card information
+2023-03-12 22:41:55,662 - logger_File -INFO - User clicked on add your card button
+2023-03-12 22:41:57,216 - logger_File -INFO - a message should be displayed â€˜Payment Method added successfullyâ€™
+2023-03-12 22:42:38,443 - logger_File -INFO - user is on retail website
+2023-03-12 22:42:38,451 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:42:38,588 - logger_File -INFO - user clicked on sign in option
+2023-03-12 22:42:38,852 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 22:42:38,985 - logger_File -INFO - Login button is enabled
+2023-03-12 22:42:40,872 - logger_File -INFO - User clicked on Account Button
+2023-03-12 22:42:40,971 - logger_File -INFO - User clicked on add a payment method link
+2023-03-12 22:42:41,638 - logger_File -INFO - User filled Debit or credit card information
+2023-03-12 22:42:41,729 - logger_File -INFO - User clicked on add your card button
+2023-03-12 22:43:11,117 - logger_File -INFO - user is on retail website
+2023-03-12 22:43:11,123 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:43:11,264 - logger_File -INFO - user clicked on sign in option
+2023-03-12 22:43:11,526 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 22:43:11,665 - logger_File -INFO - Login button is enabled
+2023-03-12 22:43:13,458 - logger_File -INFO - User clicked on Account Button
+2023-03-12 22:43:13,561 - logger_File -INFO - User clicked on add a payment method link
+2023-03-12 22:43:14,220 - logger_File -INFO - User filled Debit or credit card information
+2023-03-12 22:43:14,318 - logger_File -INFO - User clicked on add your card button
+2023-03-12 22:43:15,877 - logger_File -INFO - a message should be displayed â€˜Payment Method added successfullyâ€™
+2023-03-12 22:45:18,636 - logger_File -INFO - user is on retail website
+2023-03-12 22:45:18,641 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:45:18,782 - logger_File -INFO - user clicked on sign in option
+2023-03-12 22:45:19,048 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 22:45:19,179 - logger_File -INFO - Login button is enabled
+2023-03-12 22:45:20,928 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 22:45:21,061 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 22:45:21,151 - logger_File -INFO - User clicked on search Button
+2023-03-12 22:45:22,253 - logger_File -INFO - user clicked on product
+2023-03-12 22:45:23,293 - logger_File -INFO - User selected the required quantity
+2023-03-12 22:45:23,387 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 22:45:23,415 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 22:45:23,533 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 22:45:24,740 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 22:45:24,875 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 22:45:25,762 - logger_File -INFO - User entered address into required field
+2023-03-12 22:45:30,969 - logger_File -INFO - User click Add Your Address button
+2023-03-12 22:51:04,761 - logger_File -INFO - user is on retail website
+2023-03-12 22:51:04,766 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:51:04,913 - logger_File -INFO - user clicked on sign in option
+2023-03-12 22:51:05,171 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 22:51:05,305 - logger_File -INFO - Login button is enabled
+2023-03-12 22:51:07,038 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 22:51:07,169 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 22:51:07,260 - logger_File -INFO - User clicked on search Button
+2023-03-12 22:51:08,400 - logger_File -INFO - user clicked on product
+2023-03-12 22:51:09,415 - logger_File -INFO - User selected the required quantity
+2023-03-12 22:51:09,511 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 22:51:09,539 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 22:51:09,653 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 22:51:10,851 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 22:51:10,973 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 22:51:11,869 - logger_File -INFO - User entered address into required field
+2023-03-12 22:51:17,083 - logger_File -INFO - User click Add Your Address button
+2023-03-12 22:58:04,492 - logger_File -INFO - user is on retail website
+2023-03-12 22:58:04,496 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:58:04,732 - logger_File -INFO - user searched for product pokemon
+2023-03-12 22:58:06,072 - logger_File -INFO - the Product is displayed on home page
+2023-03-12 22:58:15,940 - logger_File -INFO - user is on retail website
+2023-03-12 22:58:15,941 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:58:16,082 - logger_File -INFO - User clicked on All section
+2023-03-12 22:58:17,325 - logger_File -INFO - Electronicsis equal to Electronics
+2023-03-12 22:58:17,361 - logger_File -INFO - Computersis equal to Computers
+2023-03-12 22:58:17,400 - logger_File -INFO - Smart Homeis equal to Smart Home
+2023-03-12 22:58:17,438 - logger_File -INFO - Sportsis equal to Sports
+2023-03-12 22:58:17,477 - logger_File -INFO - Automativeis equal to Automative
+2023-03-12 22:58:25,106 - logger_File -INFO - user is on retail website
+2023-03-12 22:58:25,107 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:58:25,241 - logger_File -INFO - User clicked on All section
+2023-03-12 22:58:26,407 - logger_File -INFO - TV & Videois present
+2023-03-12 22:58:26,459 - logger_File -INFO - Video Gamesis present
+2023-03-12 22:58:34,544 - logger_File -INFO - user is on retail website
+2023-03-12 22:58:34,545 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:58:34,683 - logger_File -INFO - User clicked on All section
+2023-03-12 22:58:36,164 - logger_File -INFO - Accessoriesis present
+2023-03-12 22:58:36,214 - logger_File -INFO - Networkingis present
+2023-03-12 22:58:43,601 - logger_File -INFO - user is on retail website
+2023-03-12 22:58:43,602 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:58:43,741 - logger_File -INFO - User clicked on All section
+2023-03-12 22:58:45,263 - logger_File -INFO - Smart Home Lightningis present
+2023-03-12 22:58:45,320 - logger_File -INFO - Plugs and Outletsis present
+2023-03-12 22:58:52,756 - logger_File -INFO - user is on retail website
+2023-03-12 22:58:52,757 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:58:52,891 - logger_File -INFO - User clicked on All section
+2023-03-12 22:58:54,309 - logger_File -INFO - Athletic Clothingis present
+2023-03-12 22:58:54,366 - logger_File -INFO - Exercise & Fitnessis present
+2023-03-12 22:59:02,835 - logger_File -INFO - user is on retail website
+2023-03-12 22:59:02,836 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:59:02,969 - logger_File -INFO - User clicked on All section
+2023-03-12 22:59:04,435 - logger_File -INFO - Automative Parts & Accessoriesis present
+2023-03-12 22:59:04,489 - logger_File -INFO - MotorCycle & Powersportsis present
+2023-03-12 22:59:12,474 - logger_File -INFO - user is on retail website
+2023-03-12 22:59:12,475 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:59:12,595 - logger_File -INFO - user clicked on sign in option
+2023-03-12 22:59:12,848 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 22:59:12,968 - logger_File -INFO - Login button is enabled
+2023-03-12 22:59:14,512 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 22:59:14,640 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 22:59:14,725 - logger_File -INFO - User clicked on search Button
+2023-03-12 22:59:15,907 - logger_File -INFO - user clicked on product
+2023-03-12 22:59:16,922 - logger_File -INFO - User selected the required quantity
+2023-03-12 22:59:17,005 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 22:59:17,030 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 22:59:25,716 - logger_File -INFO - user is on retail website
+2023-03-12 22:59:25,717 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:59:25,840 - logger_File -INFO - user clicked on sign in option
+2023-03-12 22:59:26,090 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 22:59:26,215 - logger_File -INFO - Login button is enabled
+2023-03-12 22:59:27,796 - logger_File -INFO - User change the category to Smart Home
+2023-03-12 22:59:27,926 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-12 22:59:28,009 - logger_File -INFO - User clicked on search Button
+2023-03-12 22:59:29,113 - logger_File -INFO - user clicked on product
+2023-03-12 22:59:30,140 - logger_File -INFO - User selected the required quantity
+2023-03-12 22:59:30,221 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 22:59:30,250 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 22:59:30,372 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 22:59:31,564 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 22:59:31,677 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-12 22:59:32,542 - logger_File -INFO - User entered address into required field
+2023-03-12 22:59:37,720 - logger_File -INFO - User click Add Your Address button
+2023-03-12 22:59:47,347 - logger_File -INFO - user is on retail website
+2023-03-12 22:59:47,348 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 22:59:47,477 - logger_File -INFO - user clicked on sign in option
+2023-03-12 22:59:47,743 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 22:59:47,860 - logger_File -INFO - Login button is enabled
+2023-03-12 22:59:49,415 - logger_File -INFO - User changed the category to Electronics
+2023-03-12 22:59:49,532 - logger_File -INFO - Expected inpurt inserted Apex Legends
+2023-03-12 22:59:49,614 - logger_File -INFO - User clicked on search Button
+2023-03-12 22:59:50,712 - logger_File -INFO - user clicked on product
+2023-03-12 22:59:51,710 - logger_File -INFO - User selected the required quantity
+2023-03-12 22:59:51,791 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-12 22:59:51,814 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-12 22:59:51,938 - logger_File -INFO - User clicked on add to cart option
+2023-03-12 22:59:52,057 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-12 23:00:20,923 - logger_File -INFO - user is on retail website
+2023-03-12 23:00:20,924 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 23:00:21,053 - logger_File -INFO - user clicked on sign in option
+2023-03-12 23:00:21,300 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 23:00:21,416 - logger_File -INFO - Login button is enabled
+2023-03-12 23:00:23,288 - logger_File -INFO - User clicked on Account Button
+2023-03-12 23:00:23,704 - logger_File -INFO - User Entered the required values
+2023-03-12 23:00:23,860 - logger_File -INFO - User clicked on update button
+2023-03-12 23:00:25,479 - logger_File -INFO - user profile information should be updated
+2023-03-12 23:00:33,569 - logger_File -INFO - user is on retail website
+2023-03-12 23:00:33,570 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 23:00:33,698 - logger_File -INFO - user clicked on sign in option
+2023-03-12 23:00:33,962 - logger_File -INFO - User Entered email update.password@gmail.comuser Entered password Salam@1234
+2023-03-12 23:00:34,076 - logger_File -INFO - Login button is enabled
+2023-03-12 23:00:35,707 - logger_File -INFO - User clicked on Account Button
+2023-03-12 23:00:36,058 - logger_File -INFO - User entered required information
+2023-03-12 23:00:36,169 - logger_File -INFO - User clicked on Change Password button
+2023-03-12 23:00:38,130 - logger_File -INFO - a message should be displayed ‘Password Updated Successfully’
+2023-03-12 23:00:45,195 - logger_File -INFO - user is on retail website
+2023-03-12 23:00:45,195 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 23:00:45,325 - logger_File -INFO - user clicked on sign in option
+2023-03-12 23:00:45,574 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 23:00:45,692 - logger_File -INFO - Login button is enabled
+2023-03-12 23:00:47,346 - logger_File -INFO - User clicked on Account Button
+2023-03-12 23:00:47,440 - logger_File -INFO - User clicked on add a payment method link
+2023-03-12 23:00:48,031 - logger_File -INFO - User filled Debit or credit card information
+2023-03-12 23:00:48,123 - logger_File -INFO - User clicked on add your card button
+2023-03-12 23:00:49,700 - logger_File -INFO - a message should be displayed ‘Payment Method added successfully’
+2023-03-12 23:00:57,661 - logger_File -INFO - user is on retail website
+2023-03-12 23:00:57,662 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 23:00:57,786 - logger_File -INFO - user clicked on sign in option
+2023-03-12 23:00:58,038 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 23:00:58,156 - logger_File -INFO - Login button is enabled
+2023-03-12 23:01:00,050 - logger_File -INFO - User clicked on Account Button
+2023-03-12 23:01:00,975 - logger_File -INFO - User clicked on Edit option of card section
+2023-03-12 23:01:01,679 - logger_File -INFO - user successfully edited information with required data
+2023-03-12 23:01:01,758 - logger_File -INFO - user clicked on Update Your Card button
+2023-03-12 23:01:03,213 - logger_File -INFO - a message should be displayed ‘Payment Method updated Successfully’
+2023-03-12 23:01:11,623 - logger_File -INFO - user is on retail website
+2023-03-12 23:01:11,623 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 23:01:11,744 - logger_File -INFO - user clicked on sign in option
+2023-03-12 23:01:11,986 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 23:01:12,096 - logger_File -INFO - Login button is enabled
+2023-03-12 23:01:13,726 - logger_File -INFO - User clicked on Account Button
+2023-03-12 23:01:14,643 - logger_File -INFO - User clicked on remove option of card section
+2023-03-12 23:01:14,666 - logger_File -INFO - payment details should be removed
+2023-03-12 23:01:24,145 - logger_File -INFO - user is on retail website
+2023-03-12 23:01:24,146 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 23:01:24,273 - logger_File -INFO - user clicked on sign in option
+2023-03-12 23:01:24,522 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 23:01:24,637 - logger_File -INFO - Login button is enabled
+2023-03-12 23:01:26,278 - logger_File -INFO - User clicked on Account Button
+2023-03-12 23:01:26,419 - logger_File -INFO - User clicked on Add address option
+2023-03-12 23:01:27,748 - logger_File -INFO - user filled new address form with below information
+2023-03-12 23:01:27,891 - logger_File -INFO - User click Add Your Address button
+2023-03-12 23:01:29,336 - logger_File -INFO - a message should be displayed ‘Address Added Successfully’
+2023-03-12 23:01:37,841 - logger_File -INFO - user is on retail website
+2023-03-12 23:01:37,842 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 23:01:37,964 - logger_File -INFO - user clicked on sign in option
+2023-03-12 23:01:38,207 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 23:01:38,322 - logger_File -INFO - Login button is enabled
+2023-03-12 23:01:40,193 - logger_File -INFO - User clicked on Account Button
+2023-03-12 23:01:40,255 - logger_File -INFO - User clicked on Account Button
+2023-03-12 23:01:41,494 - logger_File -INFO - User clicked on edit address option
+2023-03-12 23:01:42,853 - logger_File -INFO - user filled new address form with below information
+2023-03-12 23:01:42,964 - logger_File -INFO - User clicked update Your Address button
+2023-03-12 23:01:44,405 - logger_File -INFO - a message should be displayed ‘Address Updated Successfully’
+2023-03-12 23:01:53,525 - logger_File -INFO - user is on retail website
+2023-03-12 23:01:53,525 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 23:01:53,647 - logger_File -INFO - user clicked on sign in option
+2023-03-12 23:01:53,900 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 23:01:54,011 - logger_File -INFO - Login button is enabled
+2023-03-12 23:01:55,655 - logger_File -INFO - User clicked on Account Button
+2023-03-12 23:01:55,713 - logger_File -INFO - User clicked on Account Button
+2023-03-12 23:01:56,493 - logger_File -INFO - User click on remove option of Address section
+2023-03-12 23:01:56,508 - logger_File -INFO - Address details should be removed
+2023-03-12 23:02:04,657 - logger_File -INFO - user is on retail website
+2023-03-12 23:02:04,657 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 23:02:04,774 - logger_File -INFO - user clicked on sign in option
+2023-03-12 23:02:05,021 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 23:02:05,137 - logger_File -INFO - Login button is enabled
+2023-03-12 23:02:06,763 - logger_File -INFO - User Clicked on order's button
+2023-03-12 23:02:08,106 - logger_File -INFO - user clicked on first item in list
+2023-03-12 23:02:08,215 - logger_File -INFO - User clicked on cancel button
+2023-03-12 23:02:08,331 - logger_File -INFO - User selected the cancelation Reason ‘Bought wrong item
+2023-03-12 23:02:08,423 - logger_File -INFO - User clicked on Cancel Order button
+2023-03-12 23:02:09,327 - logger_File -INFO - a cancelation message should be displayed ‘Your Order Has Been Cancelled’
+2023-03-12 23:02:17,065 - logger_File -INFO - user is on retail website
+2023-03-12 23:02:17,065 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 23:02:17,193 - logger_File -INFO - user clicked on sign in option
+2023-03-12 23:02:17,449 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 23:02:17,558 - logger_File -INFO - Login button is enabled
+2023-03-12 23:02:19,408 - logger_File -INFO - User Clicked on order's button
+2023-03-12 23:02:20,822 - logger_File -INFO - user clicked on first item in list
+2023-03-12 23:03:09,570 - logger_File -INFO - user is on retail website
+2023-03-12 23:03:09,571 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 23:03:09,695 - logger_File -INFO - user clicked on sign in option
+2023-03-12 23:03:09,945 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 23:03:10,054 - logger_File -INFO - Login button is enabled
+2023-03-12 23:03:11,886 - logger_File -INFO - User Clicked on order's button
+2023-03-12 23:03:13,276 - logger_File -INFO - user clicked on first item in list
+2023-03-12 23:03:13,380 - logger_File -INFO - User clicked on Review button
+2023-03-12 23:03:13,700 - logger_File -INFO - User write a review headline and description
+2023-03-12 23:03:13,789 - logger_File -INFO - User click Add your Review button
+2023-03-12 23:03:15,240 - logger_File -INFO - a review message has been displayed ‘Your review was added successfully’
+2023-03-12 23:03:23,317 - logger_File -INFO - user is on retail website
+2023-03-12 23:03:23,318 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 23:03:23,437 - logger_File -INFO - user clicked on sign in option
+2023-03-12 23:03:23,678 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-12 23:03:23,788 - logger_File -INFO - Login button is enabled
+2023-03-12 23:03:33,293 - logger_File -INFO - user is on retail website
+2023-03-12 23:03:33,294 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-12 23:03:33,412 - logger_File -INFO - user clicked on sign in option
+2023-03-12 23:03:33,501 - logger_File -INFO - user clicked on create new acount button
+2023-03-12 23:03:34,057 - logger_File -INFO - User clicked on sign up button
+2023-03-13 01:02:51,938 - logger_File -INFO - user is on retail website
+2023-03-13 01:02:51,946 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 01:02:52,085 - logger_File -INFO - user clicked on sign in option
+2023-03-13 01:02:52,346 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-13 01:02:52,479 - logger_File -INFO - Login button is enabled
+2023-03-13 01:02:54,185 - logger_File -INFO - User change the category to Smart Home
+2023-03-13 01:02:54,316 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-13 01:02:54,406 - logger_File -INFO - User clicked on search Button
+2023-03-13 01:02:55,524 - logger_File -INFO - user clicked on product
+2023-03-13 01:02:56,549 - logger_File -INFO - User selected the required quantity
+2023-03-13 01:02:56,641 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-13 01:02:56,668 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-13 01:02:56,790 - logger_File -INFO - User clicked on add to cart option
+2023-03-13 01:02:56,921 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-13 01:02:57,053 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-13 01:02:57,999 - logger_File -INFO - User entered address into required field
+2023-03-13 01:03:03,209 - logger_File -INFO - User click Add Your Address button
+2023-03-13 01:14:05,982 - logger_File -INFO - user is on retail website
+2023-03-13 01:14:05,988 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 01:14:06,299 - logger_File -INFO - user clicked on sign in option
+2023-03-13 01:14:06,587 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-13 01:14:06,730 - logger_File -INFO - Login button is enabled
+2023-03-13 01:14:07,097 - logger_File -INFO - User change the category to Smart Home
+2023-03-13 01:14:07,242 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-13 01:14:07,337 - logger_File -INFO - User clicked on search Button
+2023-03-13 01:14:07,590 - logger_File -INFO - user clicked on product
+2023-03-13 01:14:07,843 - logger_File -INFO - User selected the required quantity
+2023-03-13 01:14:07,972 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-13 01:14:08,006 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-13 01:14:08,131 - logger_File -INFO - User clicked on add to cart option
+2023-03-13 01:14:08,258 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-13 01:14:08,391 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-13 01:14:09,284 - logger_File -INFO - User entered address into required field
+2023-03-13 01:14:14,462 - logger_File -INFO - User click Add Your Address button
+2023-03-13 01:14:14,678 - logger_File -INFO - User clicked om Add a Credit Card or Debit Card button
+2023-03-13 01:14:15,300 - logger_File -INFO - User filled Debit or credit card information
+2023-03-13 01:14:15,396 - logger_File -INFO - User clicked on add your card button
+2023-03-13 01:14:15,526 - logger_File -INFO - User clicked on Place Your Order
+2023-03-13 01:14:16,319 - logger_File -INFO - Order Successfully Message displayed
+2023-03-13 01:15:26,384 - logger_File -INFO - user is on retail website
+2023-03-13 01:15:26,392 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 01:15:26,639 - logger_File -INFO - user clicked on sign in option
+2023-03-13 01:15:26,930 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-13 01:15:27,076 - logger_File -INFO - Login button is enabled
+2023-03-13 01:15:27,488 - logger_File -INFO - User change the category to Smart Home
+2023-03-13 01:15:27,611 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-13 01:15:27,701 - logger_File -INFO - User clicked on search Button
+2023-03-13 01:15:27,900 - logger_File -INFO - user clicked on product
+2023-03-13 01:15:28,156 - logger_File -INFO - User selected the required quantity
+2023-03-13 01:15:28,281 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-13 01:15:28,320 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-13 01:15:28,446 - logger_File -INFO - User clicked on add to cart option
+2023-03-13 01:15:28,567 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-13 01:15:28,711 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-13 01:15:29,618 - logger_File -INFO - User entered address into required field
+2023-03-13 01:15:34,812 - logger_File -INFO - User click Add Your Address button
+2023-03-13 01:15:35,068 - logger_File -INFO - User clicked om Add a Credit Card or Debit Card button
+2023-03-13 01:15:35,694 - logger_File -INFO - User filled Debit or credit card information
+2023-03-13 01:15:35,799 - logger_File -INFO - User clicked on add your card button
+2023-03-13 01:18:21,995 - logger_File -INFO - user is on retail website
+2023-03-13 01:18:21,999 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 01:18:22,226 - logger_File -INFO - user clicked on sign in option
+2023-03-13 01:18:22,509 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-13 01:18:22,641 - logger_File -INFO - Login button is enabled
+2023-03-13 01:18:23,016 - logger_File -INFO - User change the category to Smart Home
+2023-03-13 01:18:23,156 - logger_File -INFO - Expected inpurt inserted kasa outdoor smart plug
+2023-03-13 01:18:23,244 - logger_File -INFO - User clicked on search Button
+2023-03-13 01:18:23,434 - logger_File -INFO - user clicked on product
+2023-03-13 01:18:23,662 - logger_File -INFO - User selected the required quantity
+2023-03-13 01:18:23,790 - logger_File -INFO - User Clicked on add to cart btn
+2023-03-13 01:18:23,829 - logger_File -INFO - The cart quantity changed to expected selection
+2023-03-13 01:18:23,950 - logger_File -INFO - User clicked on add to cart option
+2023-03-13 01:18:24,071 - logger_File -INFO - User clicked on proceed to checkout button
+2023-03-13 01:18:24,212 - logger_File -INFO - user clicked add new address link for shipping address
+2023-03-13 01:18:25,123 - logger_File -INFO - User entered address into required field
+2023-03-13 01:18:25,295 - logger_File -INFO - User click Add Your Address button
+2023-03-13 01:18:25,473 - logger_File -INFO - User clicked om Add a Credit Card or Debit Card button
+2023-03-13 01:18:26,061 - logger_File -INFO - User filled Debit or credit card information
+2023-03-13 01:18:26,161 - logger_File -INFO - User clicked on add your card button

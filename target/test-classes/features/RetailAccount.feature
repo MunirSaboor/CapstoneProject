@@ -10,20 +10,20 @@ Feature: Retail Account Page
     When User click on Account option
     And User update Name and Phone
       | name    | phone number |
-      | TestSab |   9193756659 |
+      | TestSab |   9193756678 |
     And User click on Update button
     Then user profile information should be updated
 
   Scenario: Verify User can Update password
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'update.password@gmail.com' and password 'Salam@123'
+    And User enter email 'update.password@gmail.com' and password 'Tek@1234'
     And User click on login button
     And User should be logged in into Account
     And User click on Account option
     And User enter below information
       | previousPassword | newPassword | confirmPassword |
-      | Salam@123        | Tek@1234    | Tek@1234        |
+      | Tek@1234         | Salam@1234  | Salam@1234      |
     And User click on Change Password button
     Then a message should be displayed ‘Password Updated Successfully’
 

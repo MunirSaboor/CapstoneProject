@@ -16,18 +16,7 @@ public class SignInSteps extends CommonUtility{
 	
 	private POMFactory factory = new POMFactory();
 	
-	@Given("User is on retail website")
-	public void userIsOnRetailWebsite() {
-		String actualTitle = getTitle();
-		String expectedTitle = "React App";
-		Assert.assertEquals(actualTitle, expectedTitle);
-		Assert.assertTrue(isElementDisplayed(factory.homePage().tekSchoolLogo));
-		logger.info("user is on retail website");
-		logger.info("Actual Title " + actualTitle + " Equals " + " ExpectedTitle " + expectedTitle);
-
-	}
 	
-
 	@When("User click on Sign in option")
 	public void userClickOnSignInBtn() {
 		click(factory.homePage().signInButton);

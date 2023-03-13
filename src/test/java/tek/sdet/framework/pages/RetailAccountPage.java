@@ -36,7 +36,7 @@ public class RetailAccountPage extends BaseSetup{
 	public WebElement passwordUpdateSuccessfullyMessage;
 	@FindBy(xpath = "//*[text()='Add a payment method']")
 	public WebElement AddPaymentMethodLink;
-	@FindBy(xpath = "//*[@name='cardNumber']")
+	@FindBy(xpath = "//input[@id='cardNumberInput']")
 	public WebElement CardNumberFieldAccountPage;
 	@FindBy(xpath = "//*[@id='nameOnCardInput']")
 	public WebElement NameOnCardField;

@@ -56,7 +56,7 @@ public class RetailHomePage extends BaseSetup {
 	public WebElement addToCartBtnForShopping;
 	@FindBy(xpath = "//span[contains(text(),'2')]")
 	public WebElement cartQuantityConfirmationQty2;
-	@FindBy(xpath = "//div[@id='cartBtn']")
+	@FindBy(xpath = "//p[contains(text(),'Cart')]")
 	public WebElement addToCartbtn;
 	@FindBy(xpath = "//button[@id='proceedBtn']")
 	public WebElement proceedToCheckout;

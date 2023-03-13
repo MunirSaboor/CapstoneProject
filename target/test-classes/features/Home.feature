@@ -64,7 +64,7 @@ Feature: Retail Home Page
     And User click Add a credit card or Debit Card for Payment method
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 2153665126555415 | Tek Test   |               2 |           2027 |          145 |
+      | 5488726485473580 | TekCard    |              05 |           2024 |          452 |
     And User click on Add your card button
     And User click on Place Your Order
     Then a message should be displayed ‘Order Placed, Thanks’
