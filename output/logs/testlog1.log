@@ -5665,3 +5665,13 @@
 2023-03-13 14:08:48,717 [main] INFO logger_File - User clicked on Account Button
 2023-03-13 14:08:49,444 [main] INFO logger_File - User click on remove option of Address section
 2023-03-13 14:08:49,458 [main] INFO logger_File - Address details should be removed
+2023-03-13 14:23:19,585 [main] INFO logger_File - user is on retail website
+2023-03-13 14:23:19,591 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 14:23:19,769 [main] INFO logger_File - user clicked on sign in option
+2023-03-13 14:23:20,035 [main] INFO logger_File - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-13 14:23:20,167 [main] INFO logger_File - Login button is enabled
+2023-03-13 14:23:21,922 [main] INFO logger_File - User clicked on Account Button
+2023-03-13 14:23:22,029 [main] INFO logger_File - User clicked on add a payment method link
+2023-03-13 14:23:22,698 [main] INFO logger_File - User filled Debit or credit card information
+2023-03-13 14:23:22,798 [main] INFO logger_File - User clicked on add your card button
+2023-03-13 14:23:24,325 [main] INFO logger_File - a message should be displayed ‘Payment Method added successfully’
