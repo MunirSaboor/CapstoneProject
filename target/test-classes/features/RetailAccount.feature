@@ -26,7 +26,7 @@ Feature: Retail Account Page
       | Salam@1234       | Tek@1234    | Tek@1234        |
     And User click on Change Password button
     Then a message should be displayed ‘Password Updated Successfully’
-@Test
+
   Scenario: Verify User can add a payment method
     Given User is on retail website
     When User click on Sign in option
