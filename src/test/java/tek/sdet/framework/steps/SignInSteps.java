@@ -39,6 +39,7 @@ public class SignInSteps extends CommonUtility{
 	
 	@Then("User should be logged in into Account")
 	public void userShouldBeLoggedInintoAccount() {
+		waitTillPresence(factory.homePage().LogOutButton);
 	Assert.assertTrue(isElementDisplayed(factory.homePage().LogOutButton));
 	}
 

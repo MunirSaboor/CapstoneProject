@@ -153,7 +153,8 @@ public class RetailAcountSteps extends CommonUtility {
 	}
 	@Then("payment details should be removed")
 	public void paymentDetailsShouldBeRemoved() {
-		Assert.assertTrue(isElementDisplayed(factory.accountPage().EditCardAccessButton));
+		waitTillPresence(factory.accountPage().cardAssertion);
+		Assert.assertTrue(isElementDisplayed(factory.accountPage().cardAssertion));
 		logger.info("payment details should be removed");
 	   
 	}

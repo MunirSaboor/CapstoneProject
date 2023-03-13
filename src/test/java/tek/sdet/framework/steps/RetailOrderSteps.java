@@ -4,7 +4,6 @@ import org.junit.Assert;
 
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import io.netty.handler.codec.http.multipart.Attribute;
 import tek.sdet.framework.pages.POMFactory;
 import tek.sdet.framework.utilities.CommonUtility;
 

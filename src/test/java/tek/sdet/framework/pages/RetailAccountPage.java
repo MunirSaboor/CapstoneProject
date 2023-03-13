@@ -100,6 +100,8 @@ public class RetailAccountPage extends BaseSetup{
 	public WebElement addressUpdatedSuccessfullyMessage;
 	@FindBy(xpath = "//*[text()='Remove']")
 	public WebElement removeAddressButton;
+	@FindBy(xpath = "(//*[contains(@class, 'w-full undefined')])[1]")
+	public WebElement cardAssertion;
 	
 	
 	
