@@ -5521,3 +5521,50 @@
 2023-03-13 02:43:33,705 - logger_File -INFO - User clicked on Account Button
 2023-03-13 02:43:33,928 - logger_File -INFO - User clicked on remove option of card section
 2023-03-13 02:43:33,981 - logger_File -INFO - payment details should be removed
+2023-03-13 13:50:56,858 - logger_File -INFO - user is on retail website
+2023-03-13 13:50:56,887 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 13:50:57,094 - logger_File -INFO - user clicked on sign in option
+2023-03-13 13:50:57,358 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-13 13:50:57,489 - logger_File -INFO - Login button is enabled
+2023-03-13 13:50:59,219 - logger_File -INFO - User clicked on Account Button
+2023-03-13 13:50:59,316 - logger_File -INFO - User clicked on add a payment method link
+2023-03-13 13:50:59,997 - logger_File -INFO - User filled Debit or credit card information
+2023-03-13 13:51:00,106 - logger_File -INFO - User clicked on add your card button
+2023-03-13 13:51:01,595 - logger_File -INFO - a message should be displayed ‘Payment Method added successfully’
+2023-03-13 13:53:57,877 - logger_File -INFO - user is on retail website
+2023-03-13 13:53:57,882 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 13:53:58,068 - logger_File -INFO - user clicked on sign in option
+2023-03-13 13:53:58,337 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-13 13:53:58,472 - logger_File -INFO - Login button is enabled
+2023-03-13 13:54:00,211 - logger_File -INFO - User clicked on Account Button
+2023-03-13 13:54:00,318 - logger_File -INFO - User clicked on add a payment method link
+2023-03-13 13:54:01,004 - logger_File -INFO - User filled Debit or credit card information
+2023-03-13 13:54:01,103 - logger_File -INFO - User clicked on add your card button
+2023-03-13 13:54:29,119 - logger_File -INFO - user is on retail website
+2023-03-13 13:54:29,125 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 13:54:29,298 - logger_File -INFO - user clicked on sign in option
+2023-03-13 13:54:29,553 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-13 13:54:29,688 - logger_File -INFO - Login button is enabled
+2023-03-13 13:54:31,452 - logger_File -INFO - User clicked on Account Button
+2023-03-13 13:54:31,556 - logger_File -INFO - User clicked on add a payment method link
+2023-03-13 13:54:32,236 - logger_File -INFO - User filled Debit or credit card information
+2023-03-13 13:54:32,333 - logger_File -INFO - User clicked on add your card button
+2023-03-13 13:57:22,832 - logger_File -INFO - user is on retail website
+2023-03-13 13:57:22,837 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 13:57:23,012 - logger_File -INFO - user clicked on sign in option
+2023-03-13 13:57:23,276 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-13 13:57:23,413 - logger_File -INFO - Login button is enabled
+2023-03-13 13:57:25,171 - logger_File -INFO - User clicked on Account Button
+2023-03-13 13:57:25,270 - logger_File -INFO - User clicked on add a payment method link
+2023-03-13 13:57:25,964 - logger_File -INFO - User filled Debit or credit card information
+2023-03-13 13:57:26,059 - logger_File -INFO - User clicked on add your card button
+2023-03-13 13:57:48,626 - logger_File -INFO - user is on retail website
+2023-03-13 13:57:48,632 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-13 13:57:48,803 - logger_File -INFO - user clicked on sign in option
+2023-03-13 13:57:49,073 - logger_File -INFO - User Entered email saboor12@gmail.comuser Entered password Tek@1234
+2023-03-13 13:57:49,205 - logger_File -INFO - Login button is enabled
+2023-03-13 13:57:50,725 - logger_File -INFO - User clicked on Account Button
+2023-03-13 13:57:50,858 - logger_File -INFO - User clicked on add a payment method link
+2023-03-13 13:57:51,538 - logger_File -INFO - User filled Debit or credit card information
+2023-03-13 13:57:51,635 - logger_File -INFO - User clicked on add your card button
+2023-03-13 13:57:53,109 - logger_File -INFO - a message should be displayed ‘Payment Method added successfully’

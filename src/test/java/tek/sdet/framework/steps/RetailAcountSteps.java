@@ -1,5 +1,6 @@
 package tek.sdet.framework.steps;
 
+import java.time.Duration;
 import java.util.List;
 import java.util.Map;
 
