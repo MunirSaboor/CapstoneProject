@@ -101,7 +101,7 @@ public class RetailAcountSteps extends CommonUtility {
 
 	@Then("a message should be displayed ‘Payment Method added successfully’")
 	public void aMessageShouldBeDisplayedPaymentMethodAddedSuccessfully() {
-		waitTillPresence(factory.accountPage().PaymentMethodAddedSuccesfullyMessage);
+		fluientwaitforElement(factory.accountPage().PaymentMethodAddedSuccesfullyMessage, 10, 1);
 		Assert.assertTrue(isElementDisplayed(factory.accountPage().PaymentMethodAddedSuccesfullyMessage));
 		logger.info("a message should be displayed ‘Payment Method added successfully’");
 

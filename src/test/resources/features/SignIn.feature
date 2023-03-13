@@ -13,7 +13,7 @@ Feature: Sign in Feature
     When User click on Sign in option
     And User click on create New Account button
     And User fill the signUp information with below data
-      | name | email                   | password  | confirmPassword |
-      | test | test.saboom12@gmail.com | Tek@12345 | Tek@12345       |
+      | name | email                 | password  | confirmPassword |
+      | test | tek.sab1996@gmail.com | Tek@12347 | Tek@12347       |
     And User click on SignUp button
     Then User should be logged into account page
