@@ -4,7 +4,7 @@ Feature: Retail Account Page
   Scenario: Verify User can update Profile Information
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'saboor12@gmail.com' and password 'Tek@1234'
+    And User enter email 'qaTester@gmail.com' and password 'Tek@1234'
     And User click on login button
     And User should be logged in into Account
     When User click on Account option
@@ -17,7 +17,7 @@ Feature: Retail Account Page
   Scenario: Verify User can Update password
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'update.password@gmail.com' and password 'Salam@1234'
+    And User enter email 'saboor12@gmail.com' and password 'Salam@1234'
     And User click on login button
     And User should be logged in into Account
     And User click on Account option
@@ -30,21 +30,21 @@ Feature: Retail Account Page
   Scenario: Verify User can add a payment method
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'saboor12@gmail.com' and password 'Tek@1234'
+    And User enter email 'qaTester@gmail.com' and password 'Tek@1234'
     And User click on login button
     And User should be logged in into Account
     And User click on Account option
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 5488726485473580 | TekCard    |              05 |           2024 |          452 |
+      | 5488726485473593 | TekCard    |              05 |           2024 |          452 |
     And User click on Add your card button
     Then a message should be displayed ‘Payment Method added successfully’
 
   Scenario: Verify User can edit Debit or Credit card
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'saboor12@gmail.com' and password 'Tek@1234'
+    And User enter email 'qaTester@gmail.com' and password 'Tek@1234'
     And User click on login button
     And User should be logged in into Account
     And User click on Account option
@@ -58,7 +58,7 @@ Feature: Retail Account Page
   Scenario: Verify User can remove Debit or Credit card
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'saboor12@gmail.com' and password 'Tek@1234'
+    And User enter email 'qaTester@gmail.com' and password 'Tek@1234'
     And User click on login button
     And User should be logged in into Account
     And User click on Account option
@@ -68,7 +68,7 @@ Feature: Retail Account Page
   Scenario: Verify User can add an Address
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'saboor12@gmail.com' and password 'Tek@1234'
+    And User enter email 'qaTester@gmail.com' and password 'Tek@1234'
     And User click on login button
     And User should be logged in into Account
     And User click on Account option
@@ -82,7 +82,7 @@ Feature: Retail Account Page
   Scenario: Verify User can edit an Address added on account
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'saboor12@gmail.com' and password 'Tek@1234'
+    And User enter email 'qaTester@gmail.com' and password 'Tek@1234'
     And User click on login button
     And User should be logged in into Account
     And User click on Account option
@@ -97,7 +97,7 @@ Feature: Retail Account Page
   Scenario: Verify User can remove Address from Account
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'saboor12@gmail.com' and password 'Tek@1234'
+    And User enter email 'qaTester@gmail.com' and password 'Tek@1234'
     And User click on login button
     And User should be logged in into Account
     And User click on Account option

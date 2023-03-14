@@ -30,7 +30,7 @@ Feature: Retail Home Page
   Scenario: Verify User can add an item to cart
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'saboor12@gmail.com' and password 'Tek@1234'
+    And User enter email 'qaTester@gmail.com' and password 'Tek@1234'
     When User click on login button
     And User should be logged in into Account
     And User change the category to 'Smart Home'
@@ -44,7 +44,7 @@ Feature: Retail Home Page
   Scenario: Verify User can place an order without Shipping address and payment Method on file
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'saboor12@gmail.com' and password 'Tek@1234'
+    And User enter email 'qaTester@gmail.com' and password 'Tek@1234'
     When User click on login button
     And User should be logged in into Account
     And User change the category to 'Smart Home'
@@ -64,7 +64,7 @@ Feature: Retail Home Page
     And User click Add a credit card or Debit Card for Payment method
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 5488726485473580 | TekCard    |              05 |           2024 |          452 |
+      | 5488726485477280 | TekCard    |              05 |           2024 |          452 |
     And User click on Add your card button
     And User click on Place Your Order
     Then a message should be displayed ‘Order Placed, Thanks’
@@ -72,7 +72,7 @@ Feature: Retail Home Page
   Scenario: Verify User can place an order with Shipping address and payment Method on file
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'saboor12@gmail.com' and password 'Tek@1234'
+    And User enter email 'qaTester@gmail.com' and password 'Tek@1234'
     When User click on login button
     And User should be logged in into Account
     And User change the category to Electronics

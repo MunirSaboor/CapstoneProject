@@ -171,7 +171,7 @@ public class HomeSteps extends CommonUtility {
 	}
 
 	@Then("User fill new address form with below information")
-	public void userFillNewAddressFormWithBelowInformation(DataTable dataTable){
+	public void userFillNewAddressFormWithBelowInformation(DataTable dataTable) throws InterruptedException{
 		List<Map<String, String>> addressInput = dataTable.asMaps(String.class, String.class);
 		selectByVisibleText(factory.homePage().country, "Canada");
 		sendText(factory.homePage().fullNameAddNewAddressField, addressInput.get(0).get("fullName"));
@@ -182,10 +182,12 @@ public class HomeSteps extends CommonUtility {
 		selectByVisibleText(factory.homePage().stateField, "Ontario");
 		sendText(factory.homePage().zipCodeField, addressInput.get(0).get("zipCode"));
 		logger.info("User entered address into required field");
+		
 	}
 
 	@Then("User click Add a credit card or Debit Card for Payment method")
-	public void userClickAddACreditCardOrDebitCardForPaymentMethod() {
+	public void userClickAddACreditCardOrDebitCardForPaymentMethod() throws InterruptedException {
+		Thread.sleep(3000);
 		waitTillClickable(factory.homePage().AddCreditCardOrDebitCardBtn);
 	    click(factory.homePage().AddCreditCardOrDebitCardBtn);
 		logger.info("User clicked om Add a Credit Card or Debit Card button");
